@@ -19,9 +19,10 @@
 <section class="hero">
   <img class="logo" src="bilder/logo-512.png" alt="Heimkino">
   <h1>Heimkino</h1>
-  <p class="unter">Filme und Serien von zu Hause – mit Postern, Weiterschauen und Kinobild. Am PC, und per HDMI am Fernseher.</p>
+  <p class="unter">Filme und Serien von zu Hause – mit Postern, Weiterschauen und Kinobild. Für Windows und Mac – am Schreibtisch oder per HDMI am Fernseher.</p>
   <div class="knoepfe">
-    <a class="knopf haupt" href="https://github.com/StoreLiquid/heimkino-download/releases/latest/download/heimkino-setup.exe">Für Windows laden<small>Windows 10 und 11 · ARM und Intel/AMD</small></a>
+    <a class="knopf haupt" id="win" href="https://github.com/StoreLiquid/heimkino-download/releases/latest/download/heimkino-setup.exe">Für Windows laden<small>Windows 10 und 11 · ARM und Intel/AMD</small></a>
+    <span class="knopf neben aus" id="mac">Mac – kommt bald<small>macOS 13 oder neuer · Apple Silicon und Intel</small></span>
   </div>
   <p class="info"><span id="version">Aktuelle Version</span> · nur mit Einladung</p>
 </section>
@@ -31,11 +32,11 @@
   <p class="zeile">Die Links für Schritt 2 hast du per Nachricht in cadence bekommen (Knopf „Kopieren“).</p>
   <div class="raster">
     <div class="karte"><span class="nr">01</span><b>Tailscale installieren</b>Kostenlos von
-      <a href="https://tailscale.com/download/windows">tailscale.com/download</a>, mit eigenem Konto anmelden
+      <a href="https://tailscale.com/download">tailscale.com/download</a> (Mac: aus dem App Store), mit eigenem Konto anmelden
       (z. B. mit Google oder Apple). Das ist die sichere Leitung nach Hause.</div>
     <div class="karte"><span class="nr">02</span><b>Einladung annehmen</b>Den Einladungslink aus der Nachricht im Browser
       öffnen und „Accept“ klicken. Danach ist der Heimkino-Server in deinem Tailscale zu sehen – nur der, sonst nichts.</div>
-    <div class="karte"><span class="nr">03</span><b>Heimkino starten</b>Oben laden, installieren, öffnen und mit deinem
+    <div class="karte"><span class="nr">03</span><b>Heimkino starten</b>Oben laden und installieren (Mac: DMG öffnen, Heimkino in „Programme“ ziehen), öffnen und mit deinem
       Benutzernamen und Passwort anmelden. Den Server findet Heimkino von selbst.</div>
   </div>
 </div></section>
@@ -53,7 +54,7 @@
   <h2>Hilfe</h2>
   <div class="fragen">
     <details><summary>Heimkino findet den Server nicht</summary>
-      <p>Läuft Tailscale (Symbol unten rechts bei der Uhr, „Connected“)? Ohne Tailscale geht es von unterwegs nicht.
+      <p>Läuft Tailscale (Windows: Symbol unten rechts bei der Uhr, Mac: oben in der Menüleiste – „Connected“)? Ohne Tailscale geht es von unterwegs nicht.
         Einladung schon angenommen? Dann Heimkino einmal schließen und neu öffnen.</p></details>
     <details><summary>Ein Film fehlt oder lädt nicht</summary>
       <p>Ein Teil der Filme liegt auf einer Platte, die nicht immer eingeschaltet ist. Kurz Bescheid geben – dann ist er
@@ -62,7 +63,7 @@
       <p>Geht auch: die App „Tailscale“ und die Jellyfin-App „Swiftfin“ aus dem App Store installieren, in Tailscale mit
         demselben Konto anmelden, in Swiftfin den Server hinzufügen und mit denselben Daten anmelden.</p></details>
     <details><summary>Deinstallieren</summary>
-      <p>Windows-Einstellungen › Apps › Installierte Apps › Heimkino › Deinstallieren.</p></details>
+      <p>Windows: Einstellungen › Apps › Installierte Apps › Heimkino › Deinstallieren. Mac: Heimkino aus „Programme“ in den Papierkorb.</p></details>
   </div>
 </div></section>
 
@@ -74,6 +75,17 @@ fetch('https://api.github.com/repos/StoreLiquid/heimkino-download/releases/lates
   .then(function (r) { return r.json(); })
   .then(function (d) { var v = (d.name || '').match(/\d+(\.\d+)+/); if (v) document.getElementById('version').textContent = 'Version ' + v[0]; })
   .catch(function () {});
+// Mac-Download erst, wenn das Release eine Heimkino.dmg hat
+fetch('https://api.github.com/repos/StoreLiquid/heimkino-download/releases/latest')
+  .then(function (r) { return r.json(); })
+  .then(function (d) {
+    if (!(d.assets || []).some(function (a) { return a.name === 'Heimkino.dmg'; })) return;
+    var m = document.getElementById('mac'), a = document.createElement('a');
+    a.className = 'knopf neben'; a.id = 'mac'; a.href = 'https://github.com/StoreLiquid/heimkino-download/releases/latest/download/Heimkino.dmg';
+    a.innerHTML = 'Für Mac laden<small>macOS 13 oder neuer · Apple Silicon und Intel</small>';
+    m.parentNode.replaceChild(a, m);
+    if (/Mac/.test(navigator.platform)) { var w = document.getElementById('win'); w.className = 'knopf neben'; a.className = 'knopf haupt'; a.parentNode.insertBefore(a, w); }
+  }).catch(function () {});
 </script>
 </body>
 </html>
