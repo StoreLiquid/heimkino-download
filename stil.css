@@ -1,0 +1,103 @@
+/* cadence – Download-Seite (cadence.elara-hub.com). Gemeinsamer Stil für alle Seiten. */
+*{box-sizing:border-box;margin:0}
+:root{--dunkel:#111114;--karte:#1b1b20;--rand:#33333b;--text:#f2f2f4;--grau:#b7b7c0;--leise:#7d7d88;
+  --hell:#f5f5f7;--htext:#1d1d1f;--hgrau:#55555c;--akzent:#c0303f}
+html{scroll-behavior:smooth}
+body{font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,system-ui,sans-serif;background:var(--dunkel);color:var(--text);
+  -webkit-font-smoothing:antialiased;line-height:1.5}
+a{color:inherit}
+img{max-width:100%}
+.breit{max-width:1040px;margin:0 auto;padding:0 20px}
+
+/* Kopf */
+.kopf{position:absolute;top:0;left:0;right:0;z-index:2}
+.kopf .breit{display:flex;align-items:center;justify-content:space-between;height:60px}
+.kopf a{text-decoration:none;color:var(--grau);font-size:14.5px}
+.kopf a:hover{color:var(--text)}
+.kopf .marke{display:flex;align-items:center;gap:9px;color:var(--text);font-weight:600;font-size:16px}
+.kopf .marke img{width:26px;height:26px;border-radius:6px}
+.kopf nav{display:flex;gap:22px}
+
+/* Start */
+.hero{padding:118px 20px 0;text-align:center;overflow:hidden;
+  background:radial-gradient(1100px 520px at 50% -80px,#5a1a24 0%,#2a1218 38%,var(--dunkel) 72%)}
+.hero .logo{width:96px;height:96px;border-radius:22px}
+.hero h1{font-size:clamp(48px,9vw,80px);font-weight:700;letter-spacing:-.035em;margin-top:22px;line-height:1.05}
+.unter{font-size:clamp(17px,2.4vw,21px);color:var(--grau);margin:14px auto 34px;max-width:560px}
+.knoepfe{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.knopf{display:inline-flex;flex-direction:column;align-items:flex-start;padding:14px 26px;border-radius:14px;
+  text-decoration:none;color:#fff;font-weight:600;font-size:17px;min-width:240px;transition:transform .15s}
+.knopf:hover{transform:translateY(-1px)}
+.knopf small{font-weight:400;font-size:13px;opacity:.7;margin-top:2px}
+.knopf.haupt{background:#fff;color:var(--dunkel)}
+.knopf.neben{border:1px solid #3b3b44;background:var(--karte)}
+.knopf.aus{opacity:.55;cursor:default;pointer-events:none}
+.info{color:var(--leise);font-size:13.5px;margin-top:18px}
+.info a{color:var(--grau)}
+.schirme{display:flex;gap:18px;justify-content:center;margin:64px auto 0}
+.schirm{width:224px;flex:none;border-radius:14px 14px 0 0;overflow:hidden;background:#000;padding:10px 10px 0;
+  box-shadow:0 -10px 50px rgba(0,0,0,.5)}
+.schirm img{display:block;width:100%;border-radius:4px 4px 0 0}
+.schirm:nth-child(odd){transform:translateY(22px)}
+
+/* helle Abschnitte */
+.hell{background:var(--hell);color:var(--htext);padding:72px 0 80px}
+.hell + .hell{padding-top:0}
+h2{font-size:clamp(26px,4vw,32px);font-weight:650;letter-spacing:-.02em;text-align:center}
+.zeile{text-align:center;color:var(--hgrau);margin-top:8px}
+.raster{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:34px}
+.karte{background:#fff;border-radius:18px;padding:24px 22px;font-size:15.5px;color:var(--hgrau)}
+.karte b{display:block;color:var(--htext);font-size:17px;margin-bottom:6px}
+.nr{color:var(--akzent);font-weight:700;font-size:13px;letter-spacing:.06em}
+.passt{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:34px}
+.passt ul{list-style:none;padding:0}
+.passt li{padding:7px 0;border-bottom:1px solid #ececf0}
+.passt li:last-child{border:0}
+.ja::before{content:"✓";color:#1a8a4a;font-weight:700;margin-right:10px}
+.nein::before{content:"–";color:#b0b0b8;font-weight:700;margin-right:12px}
+
+/* dunkle Abschnitte */
+.dunkel{padding:72px 0}
+.galerie{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:22px;margin-top:34px}
+.galerie figure{margin:0}
+.galerie .rahmen{background:#000;border-radius:12px;padding:8px;box-shadow:0 10px 40px rgba(0,0,0,.4)}
+.galerie img{display:block;width:100%;border-radius:4px;image-rendering:auto}
+.galerie figcaption{color:var(--grau);font-size:14px;margin-top:10px;text-align:center}
+.mehr{text-align:center;margin-top:28px}
+.mehr a{color:var(--grau);font-size:15px}
+
+/* Fragen */
+details{background:#fff;border-radius:14px;padding:16px 20px;margin-top:10px}
+summary{cursor:pointer;font-weight:600;color:var(--htext);list-style:none;display:flex;align-items:center;
+  justify-content:space-between;gap:16px}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";flex:none;width:18px;text-align:center;color:var(--leise);font-weight:400;font-size:20px;line-height:1}
+details[open] summary::after{content:"–"}
+details p, details ol{color:var(--hgrau);font-size:15px;margin-top:10px}
+details ol{padding-left:20px}
+code{background:#f0f0f3;border-radius:6px;padding:2px 7px;font-family:ui-monospace,Consolas,monospace;font-size:13.5px;color:var(--htext)}
+.fragen{max-width:720px;margin:28px auto 0}
+
+/* Neu */
+.neu{max-width:720px;margin:28px auto 0;background:#fff;border-radius:18px;padding:24px 26px;color:var(--hgrau);font-size:15.5px}
+.neu h3{color:var(--htext);font-size:18px;margin-bottom:8px}
+.neu ul{padding-left:18px}
+.neu li{margin-top:6px}
+
+/* Textseiten */
+.text{padding:110px 0 70px}
+.text h1{font-size:38px;letter-spacing:-.02em}
+.text h2{text-align:left;font-size:22px;margin-top:38px}
+.text p,.text li{color:var(--grau);margin-top:10px;font-size:15.5px}
+.text ul{padding-left:20px}
+
+footer{padding:34px 20px 44px;color:var(--leise);font-size:13px;text-align:center;line-height:1.8}
+footer a{color:#a8a8b2}
+
+@media (max-width:760px){
+  .kopf nav{gap:14px}.kopf nav a.weg{display:none}
+  .raster,.passt{grid-template-columns:1fr}
+  .knopf{width:100%;max-width:340px}
+  .schirm{width:150px}.schirm:nth-child(n+4){display:none}
+  .schirme{gap:12px}
+}

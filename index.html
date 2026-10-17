@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Heimkino – Filme und Serien von zu Hause</title>
+<meta name="description" content="Heimkino zeigt die Filme und Serien vom eigenen Jellyfin-Server – am PC und über HDMI am Fernseher.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="bilder/logo-180.png">
+<link rel="apple-touch-icon" href="bilder/logo-180.png">
+<link rel="stylesheet" href="stil.css">
+</head>
+<body>
+<header class="kopf"><div class="breit">
+  <a class="marke" href="./"><img src="bilder/logo-180.png" alt="">Heimkino</a>
+  <nav><a href="#einrichten">Einrichten</a><a href="#hilfe">Hilfe</a></nav>
+</div></header>
+
+<section class="hero">
+  <img class="logo" src="bilder/logo-512.png" alt="Heimkino">
+  <h1>Heimkino</h1>
+  <p class="unter">Filme und Serien von zu Hause – mit Postern, Weiterschauen und Kinobild. Am PC, und per HDMI am Fernseher.</p>
+  <div class="knoepfe">
+    <a class="knopf haupt" href="https://github.com/StoreLiquid/heimkino-download/releases/latest/download/heimkino-setup.exe">Für Windows laden<small>Windows 10 und 11 · ARM und Intel/AMD</small></a>
+  </div>
+  <p class="info"><span id="version">Aktuelle Version</span> · nur mit Einladung</p>
+</section>
+
+<section class="hell" id="einrichten"><div class="breit">
+  <h2>Einrichten – einmal, dauert 5 Minuten</h2>
+  <p class="zeile">Die Links für Schritt 2 hast du per Nachricht in cadence bekommen (Knopf „Kopieren“).</p>
+  <div class="raster">
+    <div class="karte"><span class="nr">01</span><b>Tailscale installieren</b>Kostenlos von
+      <a href="https://tailscale.com/download/windows">tailscale.com/download</a>, mit eigenem Konto anmelden
+      (z. B. mit Google oder Apple). Das ist die sichere Leitung nach Hause.</div>
+    <div class="karte"><span class="nr">02</span><b>Einladung annehmen</b>Den Einladungslink aus der Nachricht im Browser
+      öffnen und „Accept“ klicken. Danach ist der Heimkino-Server in deinem Tailscale zu sehen – nur der, sonst nichts.</div>
+    <div class="karte"><span class="nr">03</span><b>Heimkino starten</b>Oben laden, installieren, öffnen und mit deinem
+      Benutzernamen und Passwort anmelden. Den Server findet Heimkino von selbst.</div>
+  </div>
+</div></section>
+
+<section class="dunkel"><div class="breit">
+  <h2>Was Heimkino kann</h2>
+  <div class="raster">
+    <div class="karte"><b>Alles auf einen Blick</b>Filme und Serien mit Postern, Suche, Staffeln und Folgen.</div>
+    <div class="karte"><b>Weiterschauen</b>Wo du aufgehört hast, geht es weiter – auch am anderen Gerät.</div>
+    <div class="karte"><b>Kinobild</b>4K, HDR und Raumklang, Vollbild mit Doppelklick. Ideal am Fernseher über HDMI.</div>
+  </div>
+</div></section>
+
+<section class="hell" id="hilfe"><div class="breit">
+  <h2>Hilfe</h2>
+  <div class="fragen">
+    <details><summary>Heimkino findet den Server nicht</summary>
+      <p>Läuft Tailscale (Symbol unten rechts bei der Uhr, „Connected“)? Ohne Tailscale geht es von unterwegs nicht.
+        Einladung schon angenommen? Dann Heimkino einmal schließen und neu öffnen.</p></details>
+    <details><summary>Ein Film fehlt oder lädt nicht</summary>
+      <p>Ein Teil der Filme liegt auf einer Platte, die nicht immer eingeschaltet ist. Kurz Bescheid geben – dann ist er
+        gleich da.</p></details>
+    <details><summary>Am Apple TV oder Handy schauen?</summary>
+      <p>Geht auch: die App „Tailscale“ und die Jellyfin-App „Swiftfin“ aus dem App Store installieren, in Tailscale mit
+        demselben Konto anmelden, in Swiftfin den Server hinzufügen und mit denselben Daten anmelden.</p></details>
+    <details><summary>Deinstallieren</summary>
+      <p>Windows-Einstellungen › Apps › Installierte Apps › Heimkino › Deinstallieren.</p></details>
+  </div>
+</div></section>
+
+<footer>Heimkino · privat · nutzt <a href="https://jellyfin.org">Jellyfin</a> und
+  <a href="https://mpv.io">mpv</a> (freie Software)</footer>
+
+<script>
+fetch('https://api.github.com/repos/StoreLiquid/heimkino-download/releases/latest')
+  .then(function (r) { return r.json(); })
+  .then(function (d) { var v = (d.name || '').match(/\d+(\.\d+)+/); if (v) document.getElementById('version').textContent = 'Version ' + v[0]; })
+  .catch(function () {});
+</script>
+</body>
+</html>
