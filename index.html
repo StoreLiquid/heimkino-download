@@ -75,6 +75,16 @@ fetch('https://api.github.com/repos/StoreLiquid/heimkino-download/releases/lates
   .then(function (r) { return r.json(); })
   .then(function (d) { var v = (d.name || '').match(/\d+(\.\d+)+/); if (v) document.getElementById('version').textContent = 'Version ' + v[0]; })
   .catch(function () {});
+// Windows-Download nur, solange das Release eine heimkino-setup.exe hat (sonst „kommt bald“, wie beim Mac)
+fetch('https://api.github.com/repos/StoreLiquid/heimkino-download/releases/latest')
+  .then(function (r) { return r.json(); })
+  .then(function (d) {
+    if ((d.assets || []).some(function (a) { return a.name === 'heimkino-setup.exe'; })) return;
+    var w = document.getElementById('win'), s = document.createElement('span');
+    s.className = 'knopf neben aus'; s.id = 'win';
+    s.innerHTML = 'Windows – kommt bald<small>Windows 10 und 11 · ARM und Intel/AMD</small>';
+    w.parentNode.replaceChild(s, w);
+  }).catch(function () {});
 // Mac-Download erst, wenn das Release eine Heimkino.dmg hat
 fetch('https://api.github.com/repos/StoreLiquid/heimkino-download/releases/latest')
   .then(function (r) { return r.json(); })
