@@ -81,6 +81,9 @@ main{max-width:1400px;margin:0 auto;padding:16px 16px 80px}
 .status b{display:block}
 .status span{font-size:14px;color:var(--dim)}
 .zu{position:sticky;float:right;top:0;border:0;background:var(--glas);color:var(--text);width:34px;height:34px;border-radius:50%;font-size:18px;cursor:pointer;margin:-4px -4px 0 8px}
+/* Wartungs-Banner (wartung.json) */
+#wartung{display:none;padding:10px 16px;background:var(--akzent);color:#1a0d05;font-weight:600;font-size:14px;text-align:center}
+#wartung.auf{display:block}
 /* Hinweis „Zum Home-Bildschirm“ (nur beim ersten Besuch) */
 #tipp{position:fixed;z-index:30;left:50%;bottom:calc(env(safe-area-inset-bottom) + 16px);transform:translate(-50%,140%);width:min(440px,calc(100% - 24px));border-radius:22px;padding:16px 18px;transition:transform .4s ease}
 #tipp.auf{transform:translate(-50%,0)}
@@ -100,6 +103,7 @@ footer button{pointer-events:auto;border:0;background:none;color:var(--dim);font
 </head>
 <body>
 <div id="hg"></div><div id="hg2"></div>
+<div id="wartung" role="status"></div>
 <header class="glas">
   <div class="zeile">
     <img class="logo" src="symbole/logo-96.png" alt="" width="40" height="40">
@@ -212,6 +216,13 @@ function tipp(){
   setTimeout(function(){var d=$("tipp");d.classList.add("auf");d.setAttribute("aria-hidden","false")},1500);
 }
 tipp();
+/* Wartungsmodus: ../wartung.json (schreibt Wartung.bat), alle 3 min und beim Zurückkehren in die Seite */
+function wartung(){
+  fetch("../wartung.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null}).then(function(d){
+    var b=$("wartung"); if(d&&d.aktiv){b.textContent="🔧 Wartung am Pi: "+(d.text||"Der Pi ist gerade nicht erreichbar.");b.classList.add("auf")}else{b.classList.remove("auf")}
+  }).catch(function(){});
+}
+wartung(); setInterval(wartung,180000); document.addEventListener("visibilitychange",function(){if(!document.hidden)wartung()});
 fetch(DATEN+"filme.json",{cache:"no-cache"}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
   daten=d; try{var z=new Date(d.erzeugt);$("stand").textContent="auf der 10-TB-Platte · Stand "+z.toLocaleDateString("de-DE")}catch(e){}
   genres(); zeichnen();
