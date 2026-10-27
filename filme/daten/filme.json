@@ -1,0 +1,8634 @@
+{
+ "erzeugt": "2026-10-27T22:58:47+01:00",
+ "filme": [
+  {
+   "id": "2705aeaded01630bff5a6addb9d95b70",
+   "titel": "10x10",
+   "jahr": 2018,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "2705aeaded01630bff5a6addb9d95b70.jpg"
+  },
+  {
+   "id": "0b0f7a32f84b865121c3e3f8ca192385",
+   "titel": "15 Jahre",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Musik"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0b0f7a32f84b865121c3e3f8ca192385.jpg"
+  },
+  {
+   "id": "7535a97d9a53be3036c55dbfacc44f3e",
+   "titel": "16 Blocks",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7535a97d9a53be3036c55dbfacc44f3e.jpg"
+  },
+  {
+   "id": "602942351f13552c794178cab34dd636",
+   "titel": "2 Fast 2 Furious",
+   "jahr": 2003,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "602942351f13552c794178cab34dd636.jpg"
+  },
+  {
+   "id": "797702d998f3a402aab3409154e0ec49",
+   "titel": "20 Funerals",
+   "jahr": 2004,
+   "fsk": null,
+   "genres": [
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "797702d998f3a402aab3409154e0ec49.jpg"
+  },
+  {
+   "id": "5e0ecaeab969a6d16ea469a340d411e5",
+   "titel": "2012",
+   "jahr": 2009,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5e0ecaeab969a6d16ea469a340d411e5.jpg"
+  },
+  {
+   "id": "01243b9cddac7ed7f2023714e6eb65d0",
+   "titel": "28 Years Later",
+   "jahr": 2025,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "01243b9cddac7ed7f2023714e6eb65d0.jpg"
+  },
+  {
+   "id": "1680178bdc26a434fe62c4afcec424ac",
+   "titel": "28 Years Later: The Bone Temple",
+   "jahr": 2026,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "1680178bdc26a434fe62c4afcec424ac.jpg"
+  },
+  {
+   "id": "39703af27a79738756c02efac8b967f8",
+   "titel": "5 Seasons - Die fünf Tore zur Hölle",
+   "jahr": 2015,
+   "fsk": 18,
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "39703af27a79738756c02efac8b967f8.jpg"
+  },
+  {
+   "id": "6b82622091f4441980f30f160c86bcc3",
+   "titel": "8 Mile",
+   "jahr": 2002,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Musik"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6b82622091f4441980f30f160c86bcc3.jpg"
+  },
+  {
+   "id": "d45e61caff1ee00a18d4f0598240210e",
+   "titel": "[REC]",
+   "jahr": 2007,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d45e61caff1ee00a18d4f0598240210e.jpg"
+  },
+  {
+   "id": "149c90eef4f4518d628225346be9605e",
+   "titel": "A Family Affair",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Romantik",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "149c90eef4f4518d628225346be9605e.jpg"
+  },
+  {
+   "id": "b572ba0ef4d783cbe15f6a5efde98a3d",
+   "titel": "A Quiet Place: Tag Eins",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b572ba0ef4d783cbe15f6a5efde98a3d.jpg"
+  },
+  {
+   "id": "7fd2e9b3139691ae2cc56b201a71f9d2",
+   "titel": "A Working Man",
+   "jahr": 2025,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "7fd2e9b3139691ae2cc56b201a71f9d2.jpg"
+  },
+  {
+   "id": "0f1e1a7e7169c44d0fdcdd8436e02f7f",
+   "titel": "Absentia",
+   "jahr": 2011,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0f1e1a7e7169c44d0fdcdd8436e02f7f.jpg"
+  },
+  {
+   "id": "c3f09508150848ed708b73547d3314a1",
+   "titel": "Absolution",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c3f09508150848ed708b73547d3314a1.jpg"
+  },
+  {
+   "id": "3bb692d17f136eff095f553ed8be2bc3",
+   "titel": "Acts of Violence",
+   "jahr": 2018,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3bb692d17f136eff095f553ed8be2bc3.jpg"
+  },
+  {
+   "id": "d2ff908e0175d699de7681951360ed69",
+   "titel": "Afraid",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d2ff908e0175d699de7681951360ed69.jpg"
+  },
+  {
+   "id": "7f840ef64299f216c10076c0bdd50bc2",
+   "titel": "Afterparty - Feiern bis der Tod kommt",
+   "jahr": 2013,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7f840ef64299f216c10076c0bdd50bc2.jpg"
+  },
+  {
+   "id": "b593cdc6102fc9fb3785ba44ed49018f",
+   "titel": "Air - Der grosse Wurf",
+   "jahr": 2023,
+   "fsk": 6,
+   "genres": [
+    "Drama",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "b593cdc6102fc9fb3785ba44ed49018f.jpg"
+  },
+  {
+   "id": "1e377a9aa95252ffc05f2892476f7d0a",
+   "titel": "Air Strike",
+   "jahr": 2018,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama",
+    "Krieg",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1e377a9aa95252ffc05f2892476f7d0a.jpg"
+  },
+  {
+   "id": "fd61f128c10cf84d8a270d4b2aaf9a9e",
+   "titel": "Alexandre Ajas Maniac",
+   "jahr": 2012,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "fd61f128c10cf84d8a270d4b2aaf9a9e.jpg"
+  },
+  {
+   "id": "b040778a6190f8a1afe7036d073da8d1",
+   "titel": "Alien - Das unheimliche Wesen aus einer fremden Welt",
+   "jahr": 1979,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b040778a6190f8a1afe7036d073da8d1.jpg"
+  },
+  {
+   "id": "d3e5702e67c789f749877b2dc4ebebc4",
+   "titel": "Alien: Romulus",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d3e5702e67c789f749877b2dc4ebebc4.jpg"
+  },
+  {
+   "id": "48e75bfed96e8a8caae7964298743da8",
+   "titel": "Aliens - Die Rückkehr",
+   "jahr": 1986,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "48e75bfed96e8a8caae7964298743da8.jpg"
+  },
+  {
+   "id": "7fd4a6e1dafa5daf92a549734865e83d",
+   "titel": "All Girls Weekend",
+   "jahr": 2016,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7fd4a6e1dafa5daf92a549734865e83d.jpg"
+  },
+  {
+   "id": "7e83f48ea62421d7202cc6038e009f18",
+   "titel": "Alles Geld der Welt",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Krimi",
+    "Geschichte",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7e83f48ea62421d7202cc6038e009f18.jpg"
+  },
+  {
+   "id": "210c1223c91921dbcb227c5285d21231",
+   "titel": "American Mary",
+   "jahr": 2013,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "210c1223c91921dbcb227c5285d21231.jpg"
+  },
+  {
+   "id": "a7b7a01c320a04f5809a9bbf33f42c29",
+   "titel": "American Poltergeist 6 - The Haunting of Alice D.",
+   "jahr": 2014,
+   "fsk": 18,
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a7b7a01c320a04f5809a9bbf33f42c29.jpg"
+  },
+  {
+   "id": "7eb86d59f0ac68b272f7a7d86af7b65d",
+   "titel": "American Psycho",
+   "jahr": 2000,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7eb86d59f0ac68b272f7a7d86af7b65d.jpg"
+  },
+  {
+   "id": "99d47886fbc40fd4eb16cd00da137c1c",
+   "titel": "American Sweatshop",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "99d47886fbc40fd4eb16cd00da137c1c.jpg"
+  },
+  {
+   "id": "e5023f08332456a168b4ebf2f631181b",
+   "titel": "Americana",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Western",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e5023f08332456a168b4ebf2f631181b.jpg"
+  },
+  {
+   "id": "9e8dc78d72116ad30fec2765290bc2bc",
+   "titel": "Anaconda",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Komödie",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9e8dc78d72116ad30fec2765290bc2bc.jpg"
+  },
+  {
+   "id": "ab5c6d43cf23245801f797f1b0e9a3ac",
+   "titel": "Another Deadly Weekend",
+   "jahr": 2015,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ab5c6d43cf23245801f797f1b0e9a3ac.jpg"
+  },
+  {
+   "id": "0899de4f69cc4a9b70f18dddd5528c96",
+   "titel": "Arcadian",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0899de4f69cc4a9b70f18dddd5528c96.jpg"
+  },
+  {
+   "id": "9477911c09b347aeb30874eb6e0b97b9",
+   "titel": "Arielle, die Meerjungfrau",
+   "jahr": 2023,
+   "fsk": 6,
+   "genres": [
+    "Abenteuer",
+    "Familie",
+    "Fantasy",
+    "Romantik"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "9477911c09b347aeb30874eb6e0b97b9.jpg"
+  },
+  {
+   "id": "5c3c4e14def5dc22b074f8385b953476",
+   "titel": "Arrival",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Science-Fiction",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5c3c4e14def5dc22b074f8385b953476.jpg"
+  },
+  {
+   "id": "2fda7403ac1a078e1454191d7a5cac1f",
+   "titel": "Ash",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "2fda7403ac1a078e1454191d7a5cac1f.jpg"
+  },
+  {
+   "id": "72dbd59aa1c87543a3c0abb966efccff",
+   "titel": "August Underground",
+   "jahr": 2001,
+   "fsk": null,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "72dbd59aa1c87543a3c0abb966efccff.jpg"
+  },
+  {
+   "id": "3607eddf958caaefb0a028d6775edd94",
+   "titel": "Avatar - Aufbruch nach Pandora",
+   "jahr": 2009,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3607eddf958caaefb0a028d6775edd94.jpg"
+  },
+  {
+   "id": "087fd3dbbb59e9ab9f47b774fcef08e0",
+   "titel": "Avatar - Aufbruch nach Pandora",
+   "jahr": 2009,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Fantasy",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "087fd3dbbb59e9ab9f47b774fcef08e0.jpg"
+  },
+  {
+   "id": "cc722db28132fffbea520ec676d9425a",
+   "titel": "Avatar: Fire and Ash",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "cc722db28132fffbea520ec676d9425a.jpg"
+  },
+  {
+   "id": "232fc156636487e61f6d8bf082fc9e89",
+   "titel": "Avatar: The Way of Water",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "232fc156636487e61f6d8bf082fc9e89.jpg"
+  },
+  {
+   "id": "889da6de2dbf4dca9abcc8a3b1cf06e7",
+   "titel": "Azrael - Angel of Death",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "889da6de2dbf4dca9abcc8a3b1cf06e7.jpg"
+  },
+  {
+   "id": "8c730e131521b955bc562a90f9c0f3cb",
+   "titel": "Babygirl",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "8c730e131521b955bc562a90f9c0f3cb.jpg"
+  },
+  {
+   "id": "fa544daa20450442cee13010ffe77e0d",
+   "titel": "Babylon - Rausch der Ekstase",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "fa544daa20450442cee13010ffe77e0d.jpg"
+  },
+  {
+   "id": "2176d014574a9109c18205fb53ce0158",
+   "titel": "Back in Action",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2176d014574a9109c18205fb53ce0158.jpg"
+  },
+  {
+   "id": "5fb41cdfedf055de9c2d7ccb0c1982fa",
+   "titel": "Backrooms",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "5fb41cdfedf055de9c2d7ccb0c1982fa.jpg"
+  },
+  {
+   "id": "6c87e7ee032049d891a12badaa61ef97",
+   "titel": "Bad Boys - Harte Jungs",
+   "jahr": 1995,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6c87e7ee032049d891a12badaa61ef97.jpg"
+  },
+  {
+   "id": "313f5d0f6184caa1d996268003f7cb81",
+   "titel": "Bad Boys II",
+   "jahr": 2003,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "313f5d0f6184caa1d996268003f7cb81.jpg"
+  },
+  {
+   "id": "ba8a001543bc13e4ac153a7268de2c20",
+   "titel": "Bad Boys: Ride or Die",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Krimi",
+    "Thriller",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ba8a001543bc13e4ac153a7268de2c20.jpg"
+  },
+  {
+   "id": "08ec31b8bfc45f1bc537e18fd7facc54",
+   "titel": "Ballad of a Small Player",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "08ec31b8bfc45f1bc537e18fd7facc54.jpg"
+  },
+  {
+   "id": "b0ea80ed5364f835adb4d8be86e9fca5",
+   "titel": "Ballerina",
+   "jahr": 2025,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "b0ea80ed5364f835adb4d8be86e9fca5.jpg"
+  },
+  {
+   "id": "aef91197ce3ee1815970c7d8253e5c6f",
+   "titel": "Balls Up",
+   "jahr": 2026,
+   "fsk": 18,
+   "genres": [
+    "Komödie",
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "aef91197ce3ee1815970c7d8253e5c6f.jpg"
+  },
+  {
+   "id": "7129e657d1a2ba10dc570aac48e95ee7",
+   "titel": "Barbie",
+   "jahr": 2023,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7129e657d1a2ba10dc570aac48e95ee7.jpg"
+  },
+  {
+   "id": "c701087bb31370eb7a33147977c7cae8",
+   "titel": "Beetlejuice Beetlejuice",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Fantasy",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c701087bb31370eb7a33147977c7cae8.jpg"
+  },
+  {
+   "id": "d186709c6c3055fb346e0f8d01eb3f47",
+   "titel": "Birds of Prey - The Emancipation of Harley Quinn",
+   "jahr": 2020,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d186709c6c3055fb346e0f8d01eb3f47.jpg"
+  },
+  {
+   "id": "14709f4ccb56c2837a53163af6730dc6",
+   "titel": "Black Bag - Doppeltes Spiel",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "14709f4ccb56c2837a53163af6730dc6.jpg"
+  },
+  {
+   "id": "9b22c3ca9e31f7e34e5380fd12f1b276",
+   "titel": "Black Phone 2",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9b22c3ca9e31f7e34e5380fd12f1b276.jpg"
+  },
+  {
+   "id": "07afd21de0dbb0e8988ad57a902b9504",
+   "titel": "Blade Runner 2049",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "07afd21de0dbb0e8988ad57a902b9504.jpg"
+  },
+  {
+   "id": "70ca2e0baa41df633bbbd3addce1c372",
+   "titel": "Blade Runner 2049",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "70ca2e0baa41df633bbbd3addce1c372.jpg"
+  },
+  {
+   "id": "2a4ab55204831116c81e74fd8dea9fbb",
+   "titel": "Blink Twice",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2a4ab55204831116c81e74fd8dea9fbb.jpg"
+  },
+  {
+   "id": "1ffcbc2f4a1c1891a05a69b93000d02f",
+   "titel": "Blitz - Cop Killer vs. Killer Cop",
+   "jahr": 2011,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "1ffcbc2f4a1c1891a05a69b93000d02f.jpg"
+  },
+  {
+   "id": "698eb72531bc87e5f7bb9534d21d5c13",
+   "titel": "Blood & Sinners",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "698eb72531bc87e5f7bb9534d21d5c13.jpg"
+  },
+  {
+   "id": "db2e5032ff7e441a214d2f8888baadc4",
+   "titel": "Blood In Blood Out",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "db2e5032ff7e441a214d2f8888baadc4.jpg"
+  },
+  {
+   "id": "c81b29cc8252b6ce09b02f0d7b64bd57",
+   "titel": "Bloodsport",
+   "jahr": 1988,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c81b29cc8252b6ce09b02f0d7b64bd57.jpg"
+  },
+  {
+   "id": "a08154f87559cfb2a1bb4f94bfe223f7",
+   "titel": "Borderlands",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a08154f87559cfb2a1bb4f94bfe223f7.jpg"
+  },
+  {
+   "id": "f97eb5fab1b6f22a23f40383252b996e",
+   "titel": "Born to Race",
+   "jahr": 2011,
+   "fsk": 16,
+   "genres": [
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f97eb5fab1b6f22a23f40383252b996e.jpg"
+  },
+  {
+   "id": "8e83539b229b39d4e1542906f6912f78",
+   "titel": "Boston",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Geschichte",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8e83539b229b39d4e1542906f6912f78.jpg"
+  },
+  {
+   "id": "132bcd4b7a2255ae3b519bacd5f8c598",
+   "titel": "Brahms: The Boy II",
+   "jahr": 2020,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "132bcd4b7a2255ae3b519bacd5f8c598.jpg"
+  },
+  {
+   "id": "952dfb19a5d2a7d095c0b46db896ed51",
+   "titel": "Brick",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Spannung",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "952dfb19a5d2a7d095c0b46db896ed51.jpg"
+  },
+  {
+   "id": "16be94b567a0a910f4d0df0c0e8420a1",
+   "titel": "Brick Mansions",
+   "jahr": 2014,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "16be94b567a0a910f4d0df0c0e8420a1.jpg"
+  },
+  {
+   "id": "22495ca7f5beea8cd1b26398430983e8",
+   "titel": "Bring Her Back",
+   "jahr": 2025,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "22495ca7f5beea8cd1b26398430983e8.jpg"
+  },
+  {
+   "id": "1863be07927bc6538b7accc252e1aaa3",
+   "titel": "Bringing Out the Dead - Nächte der Erinnerung",
+   "jahr": 1999,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1863be07927bc6538b7accc252e1aaa3.jpg"
+  },
+  {
+   "id": "bc8b36941f68baa12250dcb07dc2ce88",
+   "titel": "Bugonia",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "bc8b36941f68baa12250dcb07dc2ce88.jpg"
+  },
+  {
+   "id": "83e25ad7c811adaea06556550af3f950",
+   "titel": "BUNKER 06: Das Exitus-Protokoll",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "83e25ad7c811adaea06556550af3f950.jpg"
+  },
+  {
+   "id": "895fca1fd08f1c098c1eff7351ceab33",
+   "titel": "Captain America: Brave New World",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "895fca1fd08f1c098c1eff7351ceab33.jpg"
+  },
+  {
+   "id": "07f76ebfa207f318902d3363187dec7b",
+   "titel": "Carjackers",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "07f76ebfa207f318902d3363187dec7b.jpg"
+  },
+  {
+   "id": "c4f2824badc55bf963e72d2fcf7c6486",
+   "titel": "Carlito's Way - Weg zur Macht",
+   "jahr": 2005,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c4f2824badc55bf963e72d2fcf7c6486.jpg"
+  },
+  {
+   "id": "0033589f893d2876fac9d4984ce6d608",
+   "titel": "Chaos auf der Feuerwache",
+   "jahr": 2019,
+   "fsk": 0,
+   "genres": [
+    "Familie",
+    "Komödie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "0033589f893d2876fac9d4984ce6d608.jpg"
+  },
+  {
+   "id": "571bc7013a2755ca13128e7ed019d39d",
+   "titel": "Cleaner - Sein Geschäft ist der Tod",
+   "jahr": 2007,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Thriller",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "571bc7013a2755ca13128e7ed019d39d.jpg"
+  },
+  {
+   "id": "750405866ff133ec486ce77ea4d7f5d7",
+   "titel": "Close Calls",
+   "jahr": 2017,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "750405866ff133ec486ce77ea4d7f5d7.jpg"
+  },
+  {
+   "id": "c71f0ce4a81f98f792ae13987eb35769",
+   "titel": "Collide",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c71f0ce4a81f98f792ae13987eb35769.jpg"
+  },
+  {
+   "id": "19e5f67ec92431182f8284b9c31b4a0e",
+   "titel": "Companion Die perfekte Begleitung",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "19e5f67ec92431182f8284b9c31b4a0e.jpg"
+  },
+  {
+   "id": "0bb0695453bcfe715a2072f2b648e354",
+   "titel": "Conjuring 2",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0bb0695453bcfe715a2072f2b648e354.jpg"
+  },
+  {
+   "id": "d01145759dd99245903a84075da6ce78",
+   "titel": "Conjuring 4: Das letzte Kapitel",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Spannung",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d01145759dd99245903a84075da6ce78.jpg"
+  },
+  {
+   "id": "0b54c2f3e2441fe377f5d136e9c2d29b",
+   "titel": "Constantine",
+   "jahr": 2005,
+   "fsk": 16,
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0b54c2f3e2441fe377f5d136e9c2d29b.jpg"
+  },
+  {
+   "id": "b17e791f25329561d7b4a3df0f9f864e",
+   "titel": "Crash",
+   "jahr": 1996,
+   "fsk": 18,
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b17e791f25329561d7b4a3df0f9f864e.jpg"
+  },
+  {
+   "id": "8fe9c992b3dc449adc150d0532d78ff6",
+   "titel": "Crime 101",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8fe9c992b3dc449adc150d0532d78ff6.jpg"
+  },
+  {
+   "id": "387e60a334647defbb689dfcb352b728",
+   "titel": "Criminal Squad",
+   "jahr": 2018,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "387e60a334647defbb689dfcb352b728.jpg"
+  },
+  {
+   "id": "74c66d97a7ec8fa0734ddd4fb57fb95a",
+   "titel": "Criminal Squad 2",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "74c66d97a7ec8fa0734ddd4fb57fb95a.jpg"
+  },
+  {
+   "id": "36c001635dba06497606b9eb390c1b3f",
+   "titel": "Culpa Mia - Meine Schuld",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Romantik",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "36c001635dba06497606b9eb390c1b3f.jpg"
+  },
+  {
+   "id": "14369f1fa24ae9f2028c10950082badb",
+   "titel": "Culpa Mía - Meine Schuld: London",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Romantik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "14369f1fa24ae9f2028c10950082badb.jpg"
+  },
+  {
+   "id": "298b8d4747798611d68fcc301b3a668c",
+   "titel": "Culpa Nuestra - Unsere Schuld",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Romantik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "298b8d4747798611d68fcc301b3a668c.jpg"
+  },
+  {
+   "id": "d74f1aa5090bfe56cee7da026e79fcc2",
+   "titel": "Culpa Tuya - Deine Schuld",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Romantik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d74f1aa5090bfe56cee7da026e79fcc2.jpg"
+  },
+  {
+   "id": "8079defa14cbd1d5d2e0bcb9086fa9a2",
+   "titel": "Daddio - Eine Nacht in New York",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "8079defa14cbd1d5d2e0bcb9086fa9a2.jpg"
+  },
+  {
+   "id": "e5ef5f646e8340365ff2afc9134c51b4",
+   "titel": "Daddy's Girl",
+   "jahr": 2018,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e5ef5f646e8340365ff2afc9134c51b4.jpg"
+  },
+  {
+   "id": "dfa6b3167d17153522f9579afa1248fb",
+   "titel": "Dark Light",
+   "jahr": 2019,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "dfa6b3167d17153522f9579afa1248fb.jpg"
+  },
+  {
+   "id": "06bcd87457450fd6a5a70373b3dfb001",
+   "titel": "Das Herz ist eine hinterlistige Person",
+   "jahr": 2004,
+   "fsk": 18,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "06bcd87457450fd6a5a70373b3dfb001.jpg"
+  },
+  {
+   "id": "83e3d0d68181989521cc41bce574e6a7",
+   "titel": "Das Kanu des Manitu",
+   "jahr": 2025,
+   "fsk": 6,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Western"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "83e3d0d68181989521cc41bce574e6a7.jpg"
+  },
+  {
+   "id": "f90d4e5d8be1bd56b9d4406748ba3bc1",
+   "titel": "Das Schicksal ist ein mieser Verräter",
+   "jahr": 2014,
+   "fsk": 6,
+   "genres": [
+    "Romantik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f90d4e5d8be1bd56b9d4406748ba3bc1.jpg"
+  },
+  {
+   "id": "d446b83906d89b3f37b6b4b8de70421b",
+   "titel": "Day of the Dead",
+   "jahr": 2008,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d446b83906d89b3f37b6b4b8de70421b.jpg"
+  },
+  {
+   "id": "5a6db6058b46ffd11ea9263df3f8263d",
+   "titel": "Dead Man Running",
+   "jahr": 2009,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5a6db6058b46ffd11ea9263df3f8263d.jpg"
+  },
+  {
+   "id": "7c89ffb6ee2e91ca496a3f04ba530629",
+   "titel": "Deadly Weekend",
+   "jahr": 2013,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7c89ffb6ee2e91ca496a3f04ba530629.jpg"
+  },
+  {
+   "id": "dbf995ba1940402185e97203cc8406f4",
+   "titel": "Deadpool",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "dbf995ba1940402185e97203cc8406f4.jpg"
+  },
+  {
+   "id": "3d43b63b837684688714e5b69f8f381e",
+   "titel": "Death of a Unicorn",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Fantasy",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3d43b63b837684688714e5b69f8f381e.jpg"
+  },
+  {
+   "id": "8c867f5c4afd75dfcb1d7d4b08a7eb04",
+   "titel": "Death Race",
+   "jahr": 2008,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "8c867f5c4afd75dfcb1d7d4b08a7eb04.jpg"
+  },
+  {
+   "id": "01b881c405676113df1226256e93912a",
+   "titel": "Death Race 2",
+   "jahr": 2010,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "01b881c405676113df1226256e93912a.jpg"
+  },
+  {
+   "id": "2f698397a628c93e01068e6d1da2a2d6",
+   "titel": "Death Race: Inferno",
+   "jahr": 2013,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2f698397a628c93e01068e6d1da2a2d6.jpg"
+  },
+  {
+   "id": "e9b3ad0cf3ab09c234c7c9ffe34dc238",
+   "titel": "Death Wish",
+   "jahr": 2018,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e9b3ad0cf3ab09c234c7c9ffe34dc238.jpg"
+  },
+  {
+   "id": "a83e11152f64924423b8f7bc2f70abd6",
+   "titel": "Deepwater Horizon",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a83e11152f64924423b8f7bc2f70abd6.jpg"
+  },
+  {
+   "id": "b6f53ad5972c9b6e4d251c6ab1fa74e6",
+   "titel": "Demolition - Lieben und Leben",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b6f53ad5972c9b6e4d251c6ab1fa74e6.jpg"
+  },
+  {
+   "id": "c6d033d477db9a5149fc32e9cd2bd94b",
+   "titel": "Der Astronaut – Project Hail Mary",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c6d033d477db9a5149fc32e9cd2bd94b.jpg"
+  },
+  {
+   "id": "b0d15cc29b5dd22d6e0fa20690780cbb",
+   "titel": "Der Brutalist",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "b0d15cc29b5dd22d6e0fa20690780cbb.jpg"
+  },
+  {
+   "id": "d44c8a54cd2cad2a34e1c8a5c7248edf",
+   "titel": "Der Dunkle Turm",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d44c8a54cd2cad2a34e1c8a5c7248edf.jpg"
+  },
+  {
+   "id": "5cede9ef17805344bdcc33ae26f0b102",
+   "titel": "Der Exorzist: Bekenntnis",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5cede9ef17805344bdcc33ae26f0b102.jpg"
+  },
+  {
+   "id": "54dbceb1cbe5a4b4a3f81be7677a57c3",
+   "titel": "Der Fall Collini",
+   "jahr": 2019,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "54dbceb1cbe5a4b4a3f81be7677a57c3.jpg"
+  },
+  {
+   "id": "d829af6463d524d4f483161adc27543d",
+   "titel": "Der Hobbit - Die Schlacht der fünf Heere",
+   "jahr": 2014,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d829af6463d524d4f483161adc27543d.jpg"
+  },
+  {
+   "id": "f9ea40a5f79d5ce764bbae413596c600",
+   "titel": "Der Hobbit - Eine unerwartete Reise",
+   "jahr": 2012,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Fantasy",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f9ea40a5f79d5ce764bbae413596c600.jpg"
+  },
+  {
+   "id": "963f6489a493fcff4b8e6d6e12ac226d",
+   "titel": "Der Hobbit - Smaugs Einöde",
+   "jahr": 2013,
+   "fsk": 12,
+   "genres": [
+    "Fantasy",
+    "Abenteuer",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "963f6489a493fcff4b8e6d6e12ac226d.jpg"
+  },
+  {
+   "id": "3fe9b8beeff6d34cf9392a5129b59e96",
+   "titel": "Der Hochstapler - Roofman",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3fe9b8beeff6d34cf9392a5129b59e96.jpg"
+  },
+  {
+   "id": "726cfee44253043476d7db0acd594e9b",
+   "titel": "Der Super Mario Bros. Film",
+   "jahr": 2023,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Familie",
+    "Abenteuer",
+    "Fantasy",
+    "Komödie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "726cfee44253043476d7db0acd594e9b.jpg"
+  },
+  {
+   "id": "23d8c3447bebfde518468c0883106f40",
+   "titel": "Der Super Mario Galaxy Film",
+   "jahr": 2026,
+   "fsk": 6,
+   "genres": [
+    "Familie",
+    "Komödie",
+    "Abenteuer",
+    "Fantasy",
+    "Animation"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "23d8c3447bebfde518468c0883106f40.jpg"
+  },
+  {
+   "id": "c47a40c8937f1f50dfe65ec1090018e5",
+   "titel": "Der Teufel trägt Prada 2",
+   "jahr": 2026,
+   "fsk": 0,
+   "genres": [
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c47a40c8937f1f50dfe65ec1090018e5.jpg"
+  },
+  {
+   "id": "ec277d9eade8c33ef15da99f3c942c08",
+   "titel": "Der Vierer",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ec277d9eade8c33ef15da99f3c942c08.jpg"
+  },
+  {
+   "id": "56d8242a7aaaf712db68b69fa8312862",
+   "titel": "Der wilde Roboter",
+   "jahr": 2024,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Science-Fiction"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "56d8242a7aaaf712db68b69fa8312862.jpg"
+  },
+  {
+   "id": "da6d2abffd8a5cbad6a078e48e541ce3",
+   "titel": "Detektiv Conan: Das 1-Million-Dollar-Pentagramm",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Animation",
+    "Krimi",
+    "Mystery",
+    "Action"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "da6d2abffd8a5cbad6a078e48e541ce3.jpg"
+  },
+  {
+   "id": "f1cb64f498073440a9a316a189cbedff",
+   "titel": "Die 120 Tage von Sodom",
+   "jahr": 1976,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Drama",
+    "Krieg"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f1cb64f498073440a9a316a189cbedff.jpg"
+  },
+  {
+   "id": "17ff4e11461eb54d983cba4e4d1d5c4b",
+   "titel": "Die Gesandte des Papstes",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Geschichte",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "17ff4e11461eb54d983cba4e4d1d5c4b.jpg"
+  },
+  {
+   "id": "bea76cc3d193a9287faa3d5bb4649eb4",
+   "titel": "Die Legende von Ochi",
+   "jahr": 2025,
+   "fsk": 6,
+   "genres": [
+    "Familie",
+    "Fantasy",
+    "Abenteuer"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "bea76cc3d193a9287faa3d5bb4649eb4.jpg"
+  },
+  {
+   "id": "a3c680c1270c5444a98e42734ff59a3f",
+   "titel": "Die Mitchells gegen die Maschinen",
+   "jahr": 2021,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Abenteuer",
+    "Komödie"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "a3c680c1270c5444a98e42734ff59a3f.jpg"
+  },
+  {
+   "id": "b71ac132fe23c2b4920c76061a66cdc2",
+   "titel": "Die My Love",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "b71ac132fe23c2b4920c76061a66cdc2.jpg"
+  },
+  {
+   "id": "3ed44923a2075fdb701ed71481644aa0",
+   "titel": "Die nackte Kanone",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Action",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3ed44923a2075fdb701ed71481644aa0.jpg"
+  },
+  {
+   "id": "e053a0d1661bca639dd957cb357936b1",
+   "titel": "Die Nickel Boys",
+   "jahr": 2024,
+   "fsk": null,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e053a0d1661bca639dd957cb357936b1.jpg"
+  },
+  {
+   "id": "759fd8f2807e76a311cbf61e92c625d4",
+   "titel": "Die Strassen Harlems",
+   "jahr": 2002,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "759fd8f2807e76a311cbf61e92c625d4.jpg"
+  },
+  {
+   "id": "ea7ef24bc912f7d3c04e1acb0b94b31d",
+   "titel": "Die Tribute von Panem - Catching Fire",
+   "jahr": 2013,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ea7ef24bc912f7d3c04e1acb0b94b31d.jpg"
+  },
+  {
+   "id": "63a6ce554dec58e7d4640492100260e0",
+   "titel": "Die Tribute von Panem - Mockingjay Teil 1",
+   "jahr": 2014,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "63a6ce554dec58e7d4640492100260e0.jpg"
+  },
+  {
+   "id": "2647c0f5bc0a74e704afd6a29c281102",
+   "titel": "Die Tribute von Panem - Mockingjay Teil 2",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2647c0f5bc0a74e704afd6a29c281102.jpg"
+  },
+  {
+   "id": "34410be73fbf85a29ef4b2213db14d32",
+   "titel": "Die Tribute von Panem - The Hunger Games",
+   "jahr": 2012,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "34410be73fbf85a29ef4b2213db14d32.jpg"
+  },
+  {
+   "id": "43ebe7ce3b97dda611610514de3e5fdb",
+   "titel": "Die Unfassbaren 3 - Now you see me",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Krimi",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "43ebe7ce3b97dda611610514de3e5fdb.jpg"
+  },
+  {
+   "id": "9f270fcdfbc47edbe233c7df46b41385",
+   "titel": "Disclosure Day - Der Tag der Wahrheit",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9f270fcdfbc47edbe233c7df46b41385.jpg"
+  },
+  {
+   "id": "3a1b5cc1c7eb93c6633c76e2205a8452",
+   "titel": "Dog Eat Dog",
+   "jahr": 2016,
+   "fsk": 18,
+   "genres": [
+    "Drama",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "3a1b5cc1c7eb93c6633c76e2205a8452.jpg"
+  },
+  {
+   "id": "f2d14fd9057cc79638606a47823babd7",
+   "titel": "Doggy Style",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Komödie",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f2d14fd9057cc79638606a47823babd7.jpg"
+  },
+  {
+   "id": "c10eb039d6075263153d83038ac9abbe",
+   "titel": "Don't Breathe",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c10eb039d6075263153d83038ac9abbe.jpg"
+  },
+  {
+   "id": "746a0fb676543ec0e8f8cbe6351aba3d",
+   "titel": "Don't Breathe 2",
+   "jahr": 2021,
+   "fsk": 18,
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "746a0fb676543ec0e8f8cbe6351aba3d.jpg"
+  },
+  {
+   "id": "e2c03353262910e0b9ec3aa6f891c98a",
+   "titel": "Drachenzähmen leicht gemacht",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Fantasy",
+    "Familie",
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "e2c03353262910e0b9ec3aa6f891c98a.jpg"
+  },
+  {
+   "id": "2460496c249a77ae36ef5f7cfa46ac66",
+   "titel": "Dreizehn Leben",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "2460496c249a77ae36ef5f7cfa46ac66.jpg"
+  },
+  {
+   "id": "846e40bd6b7ed89d44c07f2fd1d8bd03",
+   "titel": "Drop: Tödliches Date",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "846e40bd6b7ed89d44c07f2fd1d8bd03.jpg"
+  },
+  {
+   "id": "4d866a83e5b32dc37870b5076c2b78ca",
+   "titel": "Dual",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "4d866a83e5b32dc37870b5076c2b78ca.jpg"
+  },
+  {
+   "id": "f0bdc94eb8861b55ad519e8855b43f8f",
+   "titel": "Dune",
+   "jahr": 2021,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f0bdc94eb8861b55ad519e8855b43f8f.jpg"
+  },
+  {
+   "id": "1c366724849504041a3d61b2dbaf707f",
+   "titel": "Dune: Part Two",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1c366724849504041a3d61b2dbaf707f.jpg"
+  },
+  {
+   "id": "a71f07c38fed2ea93f66354bc48aed0d",
+   "titel": "Eddington",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Western",
+    "Komödie",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a71f07c38fed2ea93f66354bc48aed0d.jpg"
+  },
+  {
+   "id": "7791187f262349be399f2086b6ff0748",
+   "titel": "Eden",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "7791187f262349be399f2086b6ff0748.jpg"
+  },
+  {
+   "id": "87ab4c906faf89aa55e302052cad8450",
+   "titel": "Edge of Tomorrow",
+   "jahr": 2014,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "87ab4c906faf89aa55e302052cad8450.jpg"
+  },
+  {
+   "id": "5bdb1fe6732d8e97f8425cbc5291378d",
+   "titel": "Eenie Meanie",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "5bdb1fe6732d8e97f8425cbc5291378d.jpg"
+  },
+  {
+   "id": "a92d5cfc8c14295282d265f32016313f",
+   "titel": "Ein Minecraft Film",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Familie",
+    "Komödie",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "a92d5cfc8c14295282d265f32016313f.jpg"
+  },
+  {
+   "id": "98c29a22dccc46e4e9b2226f9b672b93",
+   "titel": "Ein riskanter Plan",
+   "jahr": 2012,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "98c29a22dccc46e4e9b2226f9b672b93.jpg"
+  },
+  {
+   "id": "02f5912ef9184d3cb07ddec2cc798188",
+   "titel": "El Camino: Ein „Breaking Bad“-Film",
+   "jahr": 2019,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "02f5912ef9184d3cb07ddec2cc798188.jpg"
+  },
+  {
+   "id": "ea3b62815e98e5def8049df0043d7cc9",
+   "titel": "Elevation",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ea3b62815e98e5def8049df0043d7cc9.jpg"
+  },
+  {
+   "id": "dc80a54708fa5726fc7abcc76b9d0490",
+   "titel": "Elio",
+   "jahr": 2025,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Familie",
+    "Komödie",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "dc80a54708fa5726fc7abcc76b9d0490.jpg"
+  },
+  {
+   "id": "99d76feca434d92d95c1990f86876879",
+   "titel": "Elvis",
+   "jahr": 2022,
+   "fsk": 6,
+   "genres": [
+    "Drama",
+    "Musik",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "99d76feca434d92d95c1990f86876879.jpg"
+  },
+  {
+   "id": "da7ee1728a431f415b714a14df9438b4",
+   "titel": "Escape",
+   "jahr": 2023,
+   "fsk": 18,
+   "genres": [
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "da7ee1728a431f415b714a14df9438b4.jpg"
+  },
+  {
+   "id": "bae8e096e959af806ab45184d309bd12",
+   "titel": "Everest",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Drama",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "bae8e096e959af806ab45184d309bd12.jpg"
+  },
+  {
+   "id": "86afff004dae6a2a9371d3d0109ea78a",
+   "titel": "Everest",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Drama",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "86afff004dae6a2a9371d3d0109ea78a.jpg"
+  },
+  {
+   "id": "7b6f69b3b15a170ad84e48b95da0d6bd",
+   "titel": "Evil Dead Burn",
+   "jahr": 2026,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "7b6f69b3b15a170ad84e48b95da0d6bd.jpg"
+  },
+  {
+   "id": "0b75595a6248aa3654896633be0dc6ce",
+   "titel": "Evil Dead Rise",
+   "jahr": 2023,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0b75595a6248aa3654896633be0dc6ce.jpg"
+  },
+  {
+   "id": "29c5c3e17d13c141f2a56749c914ca58",
+   "titel": "Excision",
+   "jahr": 2012,
+   "fsk": 18,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "29c5c3e17d13c141f2a56749c914ca58.jpg"
+  },
+  {
+   "id": "6d3ffde991aa3ba338a7f5d081d4d299",
+   "titel": "Exterritorial",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "6d3ffde991aa3ba338a7f5d081d4d299.jpg"
+  },
+  {
+   "id": "d44982cbab3897044d8085cd67906df9",
+   "titel": "F1 - Der Film",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d44982cbab3897044d8085cd67906df9.jpg"
+  },
+  {
+   "id": "8fe1e30a2633fc2cca58cb2247ad55c2",
+   "titel": "Farben des Bösen: Schwarz",
+   "jahr": 2026,
+   "fsk": null,
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8fe1e30a2633fc2cca58cb2247ad55c2.jpg"
+  },
+  {
+   "id": "9fb03c795188fe905def5c598253cc2a",
+   "titel": "Fast & Furious - Neues Modell. Originalteile.",
+   "jahr": 2009,
+   "fsk": null,
+   "genres": [
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9fb03c795188fe905def5c598253cc2a.jpg"
+  },
+  {
+   "id": "4a87883f81d20b43ea6551e602f74dda",
+   "titel": "Fast & Furious 10",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Krimi",
+    "Mystery",
+    "Spannung"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "4a87883f81d20b43ea6551e602f74dda.jpg"
+  },
+  {
+   "id": "6077fd10d26a2ea31f5f33783e52dbd6",
+   "titel": "Fast & Furious 10",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller",
+    "Abenteuer",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6077fd10d26a2ea31f5f33783e52dbd6.jpg"
+  },
+  {
+   "id": "89c44432520e636ed8ee37c47476231d",
+   "titel": "Fast & Furious 6",
+   "jahr": 2013,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "89c44432520e636ed8ee37c47476231d.jpg"
+  },
+  {
+   "id": "f4ffcce5b4695720442fa90cb02d3def",
+   "titel": "Fast & Furious 7",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f4ffcce5b4695720442fa90cb02d3def.jpg"
+  },
+  {
+   "id": "cd733c9f0bdb6a8f0d244074f53c7ed0",
+   "titel": "Fast & Furious 8",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "cd733c9f0bdb6a8f0d244074f53c7ed0.jpg"
+  },
+  {
+   "id": "914325c49822ee1d0ba49bc076f6ef01",
+   "titel": "Fast & Furious 9",
+   "jahr": 2021,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "914325c49822ee1d0ba49bc076f6ef01.jpg"
+  },
+  {
+   "id": "3a2de74871b961d142a1faf027599088",
+   "titel": "Fast & Furious Five",
+   "jahr": 2011,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3a2de74871b961d142a1faf027599088.jpg"
+  },
+  {
+   "id": "934f715ec1e3c86517f7644dab59e64d",
+   "titel": "Fast & Furious: Hobbs & Shaw",
+   "jahr": 2019,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "934f715ec1e3c86517f7644dab59e64d.jpg"
+  },
+  {
+   "id": "fe1d5996070ce81f4b4bc467625f4bfd",
+   "titel": "Final Call - Wenn er auflegt, muss sie sterben",
+   "jahr": 2004,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Drama",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "fe1d5996070ce81f4b4bc467625f4bfd.jpg"
+  },
+  {
+   "id": "d1d02a0c45154a90ff82123ca1e351da",
+   "titel": "Final Destination",
+   "jahr": 2000,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d1d02a0c45154a90ff82123ca1e351da.jpg"
+  },
+  {
+   "id": "8a8335e1b50a15c0750b4dad642e0293",
+   "titel": "Final Destination 2",
+   "jahr": 2003,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8a8335e1b50a15c0750b4dad642e0293.jpg"
+  },
+  {
+   "id": "3ae086b9c3d82e603753e06a0e47ecb1",
+   "titel": "Final Destination 3",
+   "jahr": 2006,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3ae086b9c3d82e603753e06a0e47ecb1.jpg"
+  },
+  {
+   "id": "5bff54d712a25a053c938fe2b3b2bb46",
+   "titel": "Final Destination 4",
+   "jahr": 2009,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "5bff54d712a25a053c938fe2b3b2bb46.jpg"
+  },
+  {
+   "id": "bf7b4de930ed39cde25d255563f11954",
+   "titel": "Final Destination 5",
+   "jahr": 2011,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "bf7b4de930ed39cde25d255563f11954.jpg"
+  },
+  {
+   "id": "303379f26e407e0b0b2ade135d218341",
+   "titel": "Final Destination Bloodlines",
+   "jahr": 2025,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "303379f26e407e0b0b2ade135d218341.jpg"
+  },
+  {
+   "id": "2b196bd2621de3139e7a30f691615e02",
+   "titel": "Find Me Guilty - Der Mafiaprozess",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2b196bd2621de3139e7a30f691615e02.jpg"
+  },
+  {
+   "id": "632029e448edae984d86bc216cce929c",
+   "titel": "Fire Island",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Komödie",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "632029e448edae984d86bc216cce929c.jpg"
+  },
+  {
+   "id": "95f8ae7146920e0e1d38aefa33a3014f",
+   "titel": "Firestarter",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "95f8ae7146920e0e1d38aefa33a3014f.jpg"
+  },
+  {
+   "id": "66a2165ccea1369ba29f5bdfcb367074",
+   "titel": "First Reformed",
+   "jahr": 2018,
+   "fsk": null,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "66a2165ccea1369ba29f5bdfcb367074.jpg"
+  },
+  {
+   "id": "6c1ea885dd9b31f679b584ff4bf7e00f",
+   "titel": "Five Nights at Freddy's 2",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "6c1ea885dd9b31f679b584ff4bf7e00f.jpg"
+  },
+  {
+   "id": "d705cb5bc436d44311b7c49601c320ce",
+   "titel": "Flight Risk",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d705cb5bc436d44311b7c49601c320ce.jpg"
+  },
+  {
+   "id": "e4ee38e3ecd6e7da3e5d4610662d650a",
+   "titel": "Fluch der Karibik",
+   "jahr": 2003,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Fantasy",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e4ee38e3ecd6e7da3e5d4610662d650a.jpg"
+  },
+  {
+   "id": "c61bb2a70c0a5d114f139940ffd0f82a",
+   "titel": "Frankenstein",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c61bb2a70c0a5d114f139940ffd0f82a.jpg"
+  },
+  {
+   "id": "8422c1eb5b248c425eb375bdcc25a8f3",
+   "titel": "Freakier Friday",
+   "jahr": 2025,
+   "fsk": 0,
+   "genres": [
+    "Komödie",
+    "Fantasy",
+    "Familie"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "8422c1eb5b248c425eb375bdcc25a8f3.jpg"
+  },
+  {
+   "id": "dd0ec88ec25a46ec66b048b05ce21af5",
+   "titel": "Full Clip - Tödliche Bronx",
+   "jahr": 2004,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "dd0ec88ec25a46ec66b048b05ce21af5.jpg"
+  },
+  {
+   "id": "37bdd86a09efa4ab36360f628bf6d8d7",
+   "titel": "Für immer ein Teil von dir - Reminders of Him",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Romantik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "37bdd86a09efa4ab36360f628bf6d8d7.jpg"
+  },
+  {
+   "id": "5ef5cd3c2cd60a5bc3004c437d403326",
+   "titel": "G.I. Joe - Die Abrechnung",
+   "jahr": 2013,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5ef5cd3c2cd60a5bc3004c437d403326.jpg"
+  },
+  {
+   "id": "0e73eca8c287caa4e1418a20c0c22459",
+   "titel": "G.I. Joe - Geheimauftrag Cobra",
+   "jahr": 2009,
+   "fsk": 16,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0e73eca8c287caa4e1418a20c0c22459.jpg"
+  },
+  {
+   "id": "143ed23f4d8264466946f0cb637c1370",
+   "titel": "G.O.A.T. - Bock auf große Sprünge",
+   "jahr": 2026,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Familie"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "143ed23f4d8264466946f0cb637c1370.jpg"
+  },
+  {
+   "id": "19b1ee5517cbf78d6abb6ec05ee36285",
+   "titel": "G20",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Spannung",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "19b1ee5517cbf78d6abb6ec05ee36285.jpg"
+  },
+  {
+   "id": "114ea0f60130311fdaccd0ca007be3d1",
+   "titel": "Gangster Chronicles",
+   "jahr": 2013,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "114ea0f60130311fdaccd0ca007be3d1.jpg"
+  },
+  {
+   "id": "2e612ab1e18fecf6085b474695d2a520",
+   "titel": "Garfield - Eine Extra Portion Abenteuer",
+   "jahr": 2024,
+   "fsk": 0,
+   "genres": [
+    "Familie",
+    "Komödie",
+    "Abenteuer",
+    "Animation"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "2e612ab1e18fecf6085b474695d2a520.jpg"
+  },
+  {
+   "id": "65b2c606e700300050cf7d26acc5a718",
+   "titel": "Gemini Man",
+   "jahr": 2019,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Abenteuer",
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "65b2c606e700300050cf7d26acc5a718.jpg"
+  },
+  {
+   "id": "bbd186008a4e93ee4522c356ccd53190",
+   "titel": "Gemini Man",
+   "jahr": 2019,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "bbd186008a4e93ee4522c356ccd53190.jpg"
+  },
+  {
+   "id": "ffe544355b2b118f14c594d0736fa537",
+   "titel": "Gesetz der Rache",
+   "jahr": 2009,
+   "fsk": 18,
+   "genres": [
+    "Drama",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ffe544355b2b118f14c594d0736fa537.jpg"
+  },
+  {
+   "id": "55c2450fed5ecddeb9bbeee40e8bb8a5",
+   "titel": "Girl on the Train",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Drama",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "55c2450fed5ecddeb9bbeee40e8bb8a5.jpg"
+  },
+  {
+   "id": "13f355f80f0324159416d6e2f2c6f615",
+   "titel": "Girlhouse - Töte, was Du nicht kriegen kannst!",
+   "jahr": 2014,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "13f355f80f0324159416d6e2f2c6f615.jpg"
+  },
+  {
+   "id": "39cc3de1d251ac4a7f709a45ebeea9d8",
+   "titel": "Glennkill: Ein Schafskrimi",
+   "jahr": 2026,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Familie",
+    "Mystery"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "39cc3de1d251ac4a7f709a45ebeea9d8.jpg"
+  },
+  {
+   "id": "52dc91d50ae5553301cc2ec991e4c3f7",
+   "titel": "Gone",
+   "jahr": 2012,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "52dc91d50ae5553301cc2ec991e4c3f7.jpg"
+  },
+  {
+   "id": "cc4e3451b5580750ccbceb27ae68222d",
+   "titel": "Good Fortune - Ein ganz spezieller Schutzengel",
+   "jahr": 2025,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "cc4e3451b5580750ccbceb27ae68222d.jpg"
+  },
+  {
+   "id": "f5cc50a187004fe2e62397daf7ae24c0",
+   "titel": "Good Luck, Have Fun, Don't Die",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f5cc50a187004fe2e62397daf7ae24c0.jpg"
+  },
+  {
+   "id": "6748b0536739bf1ce707d4b55cd8938a",
+   "titel": "Grand Prix of Europe",
+   "jahr": 2025,
+   "fsk": 0,
+   "genres": [
+    "Animation",
+    "Abenteuer",
+    "Komödie"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "6748b0536739bf1ce707d4b55cd8938a.jpg"
+  },
+  {
+   "id": "c3d0084380941c9dbdbd0f51d85205e2",
+   "titel": "Greenland 2",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c3d0084380941c9dbdbd0f51d85205e2.jpg"
+  },
+  {
+   "id": "20e31e6b52327e075f88eaca6cbb421a",
+   "titel": "Guns Up",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "20e31e6b52327e075f88eaca6cbb421a.jpg"
+  },
+  {
+   "id": "11313d25e48ed1354dee7f3ff36463ef",
+   "titel": "H6 - Tagebuch eines Serienkillers",
+   "jahr": 2007,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "11313d25e48ed1354dee7f3ff36463ef.jpg"
+  },
+  {
+   "id": "c404e2d6f679b4fe99255ac25a5f659b",
+   "titel": "Halb Tot - Half Past Dead",
+   "jahr": 2002,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c404e2d6f679b4fe99255ac25a5f659b.jpg"
+  },
+  {
+   "id": "acff1dc0d6759169af94b763963d902c",
+   "titel": "Halloween Ends",
+   "jahr": 2022,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "acff1dc0d6759169af94b763963d902c.jpg"
+  },
+  {
+   "id": "3f692cfffa18d2766d0b4b9ddff97258",
+   "titel": "Halloween Kills",
+   "jahr": 2021,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Action",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "3f692cfffa18d2766d0b4b9ddff97258.jpg"
+  },
+  {
+   "id": "12ea1c568bfecdd3ec5fefd937dc33d5",
+   "titel": "Hannibal",
+   "jahr": 2001,
+   "fsk": 18,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "12ea1c568bfecdd3ec5fefd937dc33d5.jpg"
+  },
+  {
+   "id": "38d2a863cedff6b538b068003f99d585",
+   "titel": "Happy Gilmore 2",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "38d2a863cedff6b538b068003f99d585.jpg"
+  },
+  {
+   "id": "4a753ea8657c9e028512c686e537f908",
+   "titel": "Hart am Limit",
+   "jahr": 2004,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "4a753ea8657c9e028512c686e537f908.jpg"
+  },
+  {
+   "id": "1370921a9716f6c99296379cc2c7da0a",
+   "titel": "Havoc",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "1370921a9716f6c99296379cc2c7da0a.jpg"
+  },
+  {
+   "id": "269328b84a07f3eae1bcc405f6816c7e",
+   "titel": "Heads of State",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "269328b84a07f3eae1bcc405f6816c7e.jpg"
+  },
+  {
+   "id": "42c46f3a4db54030a0d283c3ab753d89",
+   "titel": "Helden der Nacht",
+   "jahr": 2007,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "42c46f3a4db54030a0d283c3ab753d89.jpg"
+  },
+  {
+   "id": "e6f3e692dacbf8f78a88bca73f951240",
+   "titel": "Henry: Portrait of a Serial Killer",
+   "jahr": 1986,
+   "fsk": 18,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e6f3e692dacbf8f78a88bca73f951240.jpg"
+  },
+  {
+   "id": "2068cafed2b06dd9cb9e1033c55a0653",
+   "titel": "Heretic",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2068cafed2b06dd9cb9e1033c55a0653.jpg"
+  },
+  {
+   "id": "6389b6cf05d5d17ebc7479cff886af26",
+   "titel": "Highest 2 Lowest",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "6389b6cf05d5d17ebc7479cff886af26.jpg"
+  },
+  {
+   "id": "58634b846f5033792419788de3d097da",
+   "titel": "Holland",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "58634b846f5033792419788de3d097da.jpg"
+  },
+  {
+   "id": "7742be2bfc211b9e5ac6aa1c7748946c",
+   "titel": "Home of the Brave",
+   "jahr": 2006,
+   "fsk": 16,
+   "genres": [
+    "Krieg",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "7742be2bfc211b9e5ac6aa1c7748946c.jpg"
+  },
+  {
+   "id": "a94fe89acf057fb2c535b6c097b67776",
+   "titel": "Hooker - Die dunklen Geheimnisse eines Escort Girls",
+   "jahr": 2022,
+   "fsk": null,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a94fe89acf057fb2c535b6c097b67776.jpg"
+  },
+  {
+   "id": "ce5e0792c042a244d242de779342e9f6",
+   "titel": "Hoppers",
+   "jahr": 2026,
+   "fsk": 6,
+   "genres": [
+    "Abenteuer",
+    "Animation",
+    "Komödie",
+    "Familie",
+    "Science-Fiction"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "ce5e0792c042a244d242de779342e9f6.jpg"
+  },
+  {
+   "id": "ddf548642563e9111e93a18060eb6ec8",
+   "titel": "Hours - Wettlauf gegen die Zeit",
+   "jahr": 2013,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "ddf548642563e9111e93a18060eb6ec8.jpg"
+  },
+  {
+   "id": "756737b748d2028588fef31463a2e4b0",
+   "titel": "House of Wax",
+   "jahr": 2005,
+   "fsk": 18,
+   "genres": [
+    "Mystery",
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "756737b748d2028588fef31463a2e4b0.jpg"
+  },
+  {
+   "id": "20437d9fdd8f4843bbfcd8a5d8f8f0fb",
+   "titel": "House on the Hill",
+   "jahr": 2012,
+   "fsk": null,
+   "genres": [
+    "Horror",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "20437d9fdd8f4843bbfcd8a5d8f8f0fb.jpg"
+  },
+  {
+   "id": "d28971624fc251360cebb5bd3786bbb6",
+   "titel": "Ice Road 2: Vengeance",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d28971624fc251360cebb5bd3786bbb6.jpg"
+  },
+  {
+   "id": "8be39617a1e0ef43ca42a901a037602b",
+   "titel": "Ich weiß, was du letzten Sommer getan hast",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8be39617a1e0ef43ca42a901a037602b.jpg"
+  },
+  {
+   "id": "ec1d56c54c465c16df94ea9a2127820d",
+   "titel": "Illuminati",
+   "jahr": 2009,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ec1d56c54c465c16df94ea9a2127820d.jpg"
+  },
+  {
+   "id": "d18d838e53673792ea8d872d6b16d580",
+   "titel": "Im Körper des Feindes",
+   "jahr": 1997,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d18d838e53673792ea8d872d6b16d580.jpg"
+  },
+  {
+   "id": "98aa1b99e6220a0a72199bfe4a7b822a",
+   "titel": "Immaculate",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "98aa1b99e6220a0a72199bfe4a7b822a.jpg"
+  },
+  {
+   "id": "776d3cd7bd41c3e7d0f9243a81e3942b",
+   "titel": "In the Grey",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "776d3cd7bd41c3e7d0f9243a81e3942b.jpg"
+  },
+  {
+   "id": "f347727917343992144aa223e391c556",
+   "titel": "Inception",
+   "jahr": 2010,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f347727917343992144aa223e391c556.jpg"
+  },
+  {
+   "id": "602004604ccd18c8c534d67083f1fb50",
+   "titel": "Indiana Jones und das Rad des Schicksals",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "602004604ccd18c8c534d67083f1fb50.jpg"
+  },
+  {
+   "id": "d6891c5544269a2c4baec79cdf21f18f",
+   "titel": "Inferno",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d6891c5544269a2c4baec79cdf21f18f.jpg"
+  },
+  {
+   "id": "26bdd70614c8124c05dfbc665f8b8776",
+   "titel": "Inside - Was sie will ist in Dir",
+   "jahr": 2007,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "26bdd70614c8124c05dfbc665f8b8776.jpg"
+  },
+  {
+   "id": "4739814d0b8ecc8291a5e2f4ca810361",
+   "titel": "Insidious: The Red Door",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "4739814d0b8ecc8291a5e2f4ca810361.jpg"
+  },
+  {
+   "id": "d1f214c507f834d8a6835eeefee79f8f",
+   "titel": "Into the Blue",
+   "jahr": 2005,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Abenteuer",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d1f214c507f834d8a6835eeefee79f8f.jpg"
+  },
+  {
+   "id": "a35bf4987d48ea806215f01f63874d73",
+   "titel": "Iron Man",
+   "jahr": 2008,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a35bf4987d48ea806215f01f63874d73.jpg"
+  },
+  {
+   "id": "1cf0247e934cd4a822e7f1d5954681d9",
+   "titel": "Iron Man 2",
+   "jahr": 2010,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1cf0247e934cd4a822e7f1d5954681d9.jpg"
+  },
+  {
+   "id": "e89daf59a842d627e9b83024b8c03058",
+   "titel": "Iron Man 3",
+   "jahr": 2013,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e89daf59a842d627e9b83024b8c03058.jpg"
+  },
+  {
+   "id": "8c4e89fdff6539ccfb64a5c5c3b28040",
+   "titel": "Jackass: Einer geht noch",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Dokumentation"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8c4e89fdff6539ccfb64a5c5c3b28040.jpg"
+  },
+  {
+   "id": "1c02622471bdfebe3aecff30cbe64375",
+   "titel": "James Bond 007 - Casino Royale",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1c02622471bdfebe3aecff30cbe64375.jpg"
+  },
+  {
+   "id": "2e32f06afbdef895e9c17d504153b0ef",
+   "titel": "James Bond 007 - Ein Quantum Trost",
+   "jahr": 2008,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2e32f06afbdef895e9c17d504153b0ef.jpg"
+  },
+  {
+   "id": "e917f89cc931a56cab8d3480ea4d2ee6",
+   "titel": "James Bond 007 - Keine Zeit zu sterben",
+   "jahr": 2021,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e917f89cc931a56cab8d3480ea4d2ee6.jpg"
+  },
+  {
+   "id": "e009e8e6e7d6709c18b7fa4dca956f58",
+   "titel": "James Bond 007 - Skyfall",
+   "jahr": 2012,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e009e8e6e7d6709c18b7fa4dca956f58.jpg"
+  },
+  {
+   "id": "05086762757069a3fb0989ef497bab7a",
+   "titel": "James Bond 007 - Spectre",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "05086762757069a3fb0989ef497bab7a.jpg"
+  },
+  {
+   "id": "3420b2cc473af5a6d9a52638e1d05a8f",
+   "titel": "Jennifer's Body - Jungs nach ihrem Geschmack",
+   "jahr": 2009,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "3420b2cc473af5a6d9a52638e1d05a8f.jpg"
+  },
+  {
+   "id": "6a673cc0d6b04f4539a406ada7780749",
+   "titel": "John Wick",
+   "jahr": 2014,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6a673cc0d6b04f4539a406ada7780749.jpg"
+  },
+  {
+   "id": "b3652b7f73b5038fd2b50998f71eb4ed",
+   "titel": "John Wick: Kapitel 2",
+   "jahr": 2017,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b3652b7f73b5038fd2b50998f71eb4ed.jpg"
+  },
+  {
+   "id": "1286e510c172fed8626256c2531243f6",
+   "titel": "John Wick: Kapitel 3",
+   "jahr": 2019,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1286e510c172fed8626256c2531243f6.jpg"
+  },
+  {
+   "id": "ce8db79067ca4b91145768316914b81e",
+   "titel": "John Wick: Kapitel 4",
+   "jahr": 2023,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ce8db79067ca4b91145768316914b81e.jpg"
+  },
+  {
+   "id": "058b90bda37f85421e655155516763aa",
+   "titel": "Johnny & Clyde",
+   "jahr": 2023,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "058b90bda37f85421e655155516763aa.jpg"
+  },
+  {
+   "id": "79f7a45a49ec03fd92a9205f044fd79e",
+   "titel": "Joker: Folie à Deux",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "79f7a45a49ec03fd92a9205f044fd79e.jpg"
+  },
+  {
+   "id": "f4bbe67fbf77bc346f7703d846785fab",
+   "titel": "Jumanji",
+   "jahr": 1995,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Fantasy",
+    "Familie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "f4bbe67fbf77bc346f7703d846785fab.jpg"
+  },
+  {
+   "id": "8d35beba762cf6437dd16cc6b2561312",
+   "titel": "Jurassic Park",
+   "jahr": 1993,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "8d35beba762cf6437dd16cc6b2561312.jpg"
+  },
+  {
+   "id": "1ede8266f0a8fdde0ca201fc4fcf9122",
+   "titel": "Jurassic Park III",
+   "jahr": 2001,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1ede8266f0a8fdde0ca201fc4fcf9122.jpg"
+  },
+  {
+   "id": "b0ff431c303a65247fadd7bbf5280b46",
+   "titel": "Jurassic World",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b0ff431c303a65247fadd7bbf5280b46.jpg"
+  },
+  {
+   "id": "ce3f053ab519f187ec70635841c47753",
+   "titel": "Jurassic World - Das gefallene Königreich",
+   "jahr": 2018,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ce3f053ab519f187ec70635841c47753.jpg"
+  },
+  {
+   "id": "b2aea5941ec4b29c56532d3003c11910",
+   "titel": "Jurassic World - Ein neues Zeitalter",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b2aea5941ec4b29c56532d3003c11910.jpg"
+  },
+  {
+   "id": "1dd88c32e34c73a6f92da112973b305b",
+   "titel": "Jurassic World: Die Wiedergeburt",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Familie",
+    "Science-Fiction"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "1dd88c32e34c73a6f92da112973b305b.jpg"
+  },
+  {
+   "id": "2a825c0bf8d4f19debd603c6907584c8",
+   "titel": "Juror #2",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2a825c0bf8d4f19debd603c6907584c8.jpg"
+  },
+  {
+   "id": "c421deb8ce5ccafec1caa823ccde0ad6",
+   "titel": "Kandahar",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c421deb8ce5ccafec1caa823ccde0ad6.jpg"
+  },
+  {
+   "id": "a56c504f38442189f8a555efaf8066bc",
+   "titel": "Karate Kid: Legends",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a56c504f38442189f8a555efaf8066bc.jpg"
+  },
+  {
+   "id": "34fcb32e4b959d1be00207dd1fbe3b43",
+   "titel": "Killer Ink. - Dein erstes Tattoo wirst du nie vergessen",
+   "jahr": 2016,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "34fcb32e4b959d1be00207dd1fbe3b43.jpg"
+  },
+  {
+   "id": "85eb6df1babd1346f52ee9e8bf083c62",
+   "titel": "Killers of the Flower Moon",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Krimi",
+    "Geschichte",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "85eb6df1babd1346f52ee9e8bf083c62.jpg"
+  },
+  {
+   "id": "6b1bc2b097e048ed3610c8923662d5a5",
+   "titel": "Killing Salazar",
+   "jahr": 2017,
+   "fsk": null,
+   "genres": [
+    "Krimi",
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6b1bc2b097e048ed3610c8923662d5a5.jpg"
+  },
+  {
+   "id": "824be54a6d77696f25faff6ad9aa5749",
+   "titel": "Kinds of Kindness",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "824be54a6d77696f25faff6ad9aa5749.jpg"
+  },
+  {
+   "id": "4143832112b895c9177ec0f8908a7e7b",
+   "titel": "King of the Avenue",
+   "jahr": 2010,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "4143832112b895c9177ec0f8908a7e7b.jpg"
+  },
+  {
+   "id": "fbb5f6925ff4e3d7482f94f6059f352f",
+   "titel": "Knives Out - Mord ist Familiensache",
+   "jahr": 2019,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Krimi",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "fbb5f6925ff4e3d7482f94f6059f352f.jpg"
+  },
+  {
+   "id": "511e418ee8234c8f0f591355d82fc6a5",
+   "titel": "Knock at the Cabin",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "511e418ee8234c8f0f591355d82fc6a5.jpg"
+  },
+  {
+   "id": "23d74ebd75bf596709903fc5d3e9a724",
+   "titel": "Kombucha - Die Zukunft beginnt hier",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Horror",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "23d74ebd75bf596709903fc5d3e9a724.jpg"
+  },
+  {
+   "id": "30a6ad3efe5ce88a7acd4083120022ba",
+   "titel": "Kong: Skull Island",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "30a6ad3efe5ce88a7acd4083120022ba.jpg"
+  },
+  {
+   "id": "d6278941fcfa81545d4306ede965021f",
+   "titel": "Konklave",
+   "jahr": 2024,
+   "fsk": 6,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d6278941fcfa81545d4306ede965021f.jpg"
+  },
+  {
+   "id": "eb944c294e901ad0585eb49d04964b17",
+   "titel": "Krieg der Welten",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "eb944c294e901ad0585eb49d04964b17.jpg"
+  },
+  {
+   "id": "67f0556e4171fe3aff6c621915bc3e07",
+   "titel": "Kung Fu Panda 4",
+   "jahr": 2024,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Familie",
+    "Action",
+    "Komödie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "67f0556e4171fe3aff6c621915bc3e07.jpg"
+  },
+  {
+   "id": "60a2816363f5678b8243297096e4294b",
+   "titel": "Kurzer Prozess - Righteous Kill",
+   "jahr": 2008,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "60a2816363f5678b8243297096e4294b.jpg"
+  },
+  {
+   "id": "57d6f58cd3b196a15419bf5067685135",
+   "titel": "L.A. Crash",
+   "jahr": 2005,
+   "fsk": 12,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "57d6f58cd3b196a15419bf5067685135.jpg"
+  },
+  {
+   "id": "89c9208b091f8c59337b828b6b10ecc3",
+   "titel": "Lass los",
+   "jahr": 2024,
+   "fsk": null,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "89c9208b091f8c59337b828b6b10ecc3.jpg"
+  },
+  {
+   "id": "487bcb4ff08faddfb3e33d93cd27cafb",
+   "titel": "Last Hitman - 24 Stunden in der Hölle",
+   "jahr": 2012,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Komödie",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "487bcb4ff08faddfb3e33d93cd27cafb.jpg"
+  },
+  {
+   "id": "c090957bf0ec37f857a790a55656f07a",
+   "titel": "Leave the World Behind",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c090957bf0ec37f857a790a55656f07a.jpg"
+  },
+  {
+   "id": "f2efac4c5ff5174892e2b099d507874f",
+   "titel": "Lee Cronin's The Mummy",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f2efac4c5ff5174892e2b099d507874f.jpg"
+  },
+  {
+   "id": "ec38f61c88906338c04988665c6f39e5",
+   "titel": "Legacy",
+   "jahr": 2010,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ec38f61c88906338c04988665c6f39e5.jpg"
+  },
+  {
+   "id": "9d96071cab662dbd2c4f92013950ba21",
+   "titel": "Lift",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9d96071cab662dbd2c4f92013950ba21.jpg"
+  },
+  {
+   "id": "e3721351131d7e71b9dddcde0a4d3a10",
+   "titel": "Lightyear",
+   "jahr": 2022,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Science-Fiction",
+    "Familie",
+    "Abenteuer"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "e3721351131d7e71b9dddcde0a4d3a10.jpg"
+  },
+  {
+   "id": "9bbe2ce72879b5613b8dfd559070e8db",
+   "titel": "Lilo & Stitch",
+   "jahr": 2025,
+   "fsk": 6,
+   "genres": [
+    "Abenteuer",
+    "Familie",
+    "Science-Fiction"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "9bbe2ce72879b5613b8dfd559070e8db.jpg"
+  },
+  {
+   "id": "5de1820aef3d6d27ad4221f3d3b51238",
+   "titel": "Locked In",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5de1820aef3d6d27ad4221f3d3b51238.jpg"
+  },
+  {
+   "id": "97a14bcf8af6a5d3144ae9d92c080495",
+   "titel": "Lone Survivor",
+   "jahr": 2013,
+   "fsk": 16,
+   "genres": [
+    "Krieg",
+    "Action",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "97a14bcf8af6a5d3144ae9d92c080495.jpg"
+  },
+  {
+   "id": "c74c87694f81d653be6da5bca43ba32a",
+   "titel": "Longlegs",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c74c87694f81d653be6da5bca43ba32a.jpg"
+  },
+  {
+   "id": "75d2d37f208b3764b23de714d61ee303",
+   "titel": "Lord of War - Händler des Todes",
+   "jahr": 2005,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "75d2d37f208b3764b23de714d61ee303.jpg"
+  },
+  {
+   "id": "72f31843349d04c5cc979f0d48e0fb2d",
+   "titel": "Luck",
+   "jahr": 2022,
+   "fsk": 0,
+   "genres": [
+    "Abenteuer",
+    "Animation",
+    "Komödie",
+    "Familie",
+    "Fantasy"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "72f31843349d04c5cc979f0d48e0fb2d.jpg"
+  },
+  {
+   "id": "5f325daaf940c19147101cb85efeff15",
+   "titel": "Luna",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "5f325daaf940c19147101cb85efeff15.jpg"
+  },
+  {
+   "id": "e3fba6f4206173d23bbf9af281b551a5",
+   "titel": "M3GAN",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e3fba6f4206173d23bbf9af281b551a5.jpg"
+  },
+  {
+   "id": "577ef5cd8da96939912f72774bd361fa",
+   "titel": "M3GAN 2.0",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Komödie",
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "577ef5cd8da96939912f72774bd361fa.jpg"
+  },
+  {
+   "id": "196dca49cf12af7ec4a3e61b96336f34",
+   "titel": "Madame Web",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "196dca49cf12af7ec4a3e61b96336f34.jpg"
+  },
+  {
+   "id": "631a7b57f8126a7926d29ec6f1fbaf1b",
+   "titel": "Magpie",
+   "jahr": 2024,
+   "fsk": null,
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "631a7b57f8126a7926d29ec6f1fbaf1b.jpg"
+  },
+  {
+   "id": "f9b4bb953c3c53ad53e53be1a108135e",
+   "titel": "Marco",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f9b4bb953c3c53ad53e53be1a108135e.jpg"
+  },
+  {
+   "id": "200d9332bf404c1f6bfc1911f5a55458",
+   "titel": "Marlowe",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "200d9332bf404c1f6bfc1911f5a55458.jpg"
+  },
+  {
+   "id": "445f387dd67615cf042911034048b466",
+   "titel": "Massive Talent",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "445f387dd67615cf042911034048b466.jpg"
+  },
+  {
+   "id": "a0ed1c75aa068acd13e5e607ce33a5ed",
+   "titel": "Matrix",
+   "jahr": 1999,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a0ed1c75aa068acd13e5e607ce33a5ed.jpg"
+  },
+  {
+   "id": "af8a3ce0f9d51c180636ef6397c4b60c",
+   "titel": "Matrix Reloaded",
+   "jahr": 2003,
+   "fsk": 16,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "af8a3ce0f9d51c180636ef6397c4b60c.jpg"
+  },
+  {
+   "id": "e468f4d05468b4744994859af7880a36",
+   "titel": "Matrix Resurrections",
+   "jahr": 2021,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e468f4d05468b4744994859af7880a36.jpg"
+  },
+  {
+   "id": "df9978b7815874163f3de76049e1f16b",
+   "titel": "Matrix Revolutions",
+   "jahr": 2003,
+   "fsk": 16,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "df9978b7815874163f3de76049e1f16b.jpg"
+  },
+  {
+   "id": "d3b2e3c7deb9b4c7608b7cc6d2d1eaae",
+   "titel": "Maximum Security",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Thriller",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d3b2e3c7deb9b4c7608b7cc6d2d1eaae.jpg"
+  },
+  {
+   "id": "5656d9d0ee38435056dc832fd6a7fb96",
+   "titel": "Mechanic: Resurrection",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5656d9d0ee38435056dc832fd6a7fb96.jpg"
+  },
+  {
+   "id": "36d8b4bc3a940215b8b6e001f958b97b",
+   "titel": "Meg 2 - Die Tiefe",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "36d8b4bc3a940215b8b6e001f958b97b.jpg"
+  },
+  {
+   "id": "e00133c7af397ff78f712eb36da61763",
+   "titel": "Mercy",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e00133c7af397ff78f712eb36da61763.jpg"
+  },
+  {
+   "id": "c9aab70ad458ea4be3204c0b9e17357e",
+   "titel": "Michael",
+   "jahr": 2026,
+   "fsk": 6,
+   "genres": [
+    "Musik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c9aab70ad458ea4be3204c0b9e17357e.jpg"
+  },
+  {
+   "id": "246ce748af353a59e7fdf999d453f9e0",
+   "titel": "Michael Bay's Texas Chainsaw Massacre",
+   "jahr": 2003,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "246ce748af353a59e7fdf999d453f9e0.jpg"
+  },
+  {
+   "id": "6498dee655701636d8d08992c74f8fd8",
+   "titel": "Mickey 17",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6498dee655701636d8d08992c74f8fd8.jpg"
+  },
+  {
+   "id": "d505537b28de736dfaaa7947174e9a62",
+   "titel": "Mike & Nick & Nick & Alice",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Komödie",
+    "Science-Fiction",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d505537b28de736dfaaa7947174e9a62.jpg"
+  },
+  {
+   "id": "9bb074cc553a57d1ae56b7bef5e44f5c",
+   "titel": "Mile 22",
+   "jahr": 2018,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9bb074cc553a57d1ae56b7bef5e44f5c.jpg"
+  },
+  {
+   "id": "b8dfcb13eee5f5234c61b17ea3dea4ce",
+   "titel": "Miller's Girl",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b8dfcb13eee5f5234c61b17ea3dea4ce.jpg"
+  },
+  {
+   "id": "69426bc9e4d65d2a3d7d329b52343e2e",
+   "titel": "Milli Vanilli",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Musik",
+    "Dokumentation"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "69426bc9e4d65d2a3d7d329b52343e2e.jpg"
+  },
+  {
+   "id": "4f41af6f86acfa8c9ddada65696098b5",
+   "titel": "Minions - Auf der Suche nach dem Mini-Boss",
+   "jahr": 2022,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Familie",
+    "Abenteuer"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "4f41af6f86acfa8c9ddada65696098b5.jpg"
+  },
+  {
+   "id": "aec5896b5286cc6424308a3ff74014bf",
+   "titel": "Minions und Monster",
+   "jahr": 2021,
+   "fsk": null,
+   "genres": [
+    "Animation",
+    "Familie",
+    "Fantasy",
+    "Komödie"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "aec5896b5286cc6424308a3ff74014bf.jpg"
+  },
+  {
+   "id": "639d7e4708a0085e5d83482be292ca3a",
+   "titel": "Mission: Impossible",
+   "jahr": 1996,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "639d7e4708a0085e5d83482be292ca3a.jpg"
+  },
+  {
+   "id": "e288b31760b92779442be2add5ae861c",
+   "titel": "Mission: Impossible - Dead Reckoning Teil Eins",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e288b31760b92779442be2add5ae861c.jpg"
+  },
+  {
+   "id": "c9d008209512aa7e026e4f372e1b819c",
+   "titel": "Mission: Impossible - Fallout",
+   "jahr": 2018,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c9d008209512aa7e026e4f372e1b819c.jpg"
+  },
+  {
+   "id": "fc17d086516b843a20f6b33e2511f645",
+   "titel": "Mission: Impossible - Phantom Protokoll",
+   "jahr": 2011,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "fc17d086516b843a20f6b33e2511f645.jpg"
+  },
+  {
+   "id": "39f9382c527031224ad1ba6531b57b88",
+   "titel": "Mission: Impossible - Rogue Nation",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "39f9382c527031224ad1ba6531b57b88.jpg"
+  },
+  {
+   "id": "6d28b858c9e77f615131acc68837d41e",
+   "titel": "Mission: Impossible - The Final Reckoning",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "6d28b858c9e77f615131acc68837d41e.jpg"
+  },
+  {
+   "id": "b745ece1f115c8698bea818afaa21ec9",
+   "titel": "Mission: Impossible - The Final Reckoning",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "b745ece1f115c8698bea818afaa21ec9.jpg"
+  },
+  {
+   "id": "7d5994ca2f89d22f396179d01fea9acf",
+   "titel": "Mission: Impossible II",
+   "jahr": 2000,
+   "fsk": 16,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "7d5994ca2f89d22f396179d01fea9acf.jpg"
+  },
+  {
+   "id": "d9c14c2f98b7334c3683934d26bd1a30",
+   "titel": "Mission: Impossible III",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d9c14c2f98b7334c3683934d26bd1a30.jpg"
+  },
+  {
+   "id": "3c795277abfbfdd633e515d5a5684223",
+   "titel": "Mob Land",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "3c795277abfbfdd633e515d5a5684223.jpg"
+  },
+  {
+   "id": "2d1abdbd82a7b594892c8f2db3056bd4",
+   "titel": "Monkey Man",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2d1abdbd82a7b594892c8f2db3056bd4.jpg"
+  },
+  {
+   "id": "69eea5a7822bb95ddf64fd064f101d4f",
+   "titel": "Mothers' Instinct",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "69eea5a7822bb95ddf64fd064f101d4f.jpg"
+  },
+  {
+   "id": "7c1c6a3044b445cc25e8e213dc9a69ab",
+   "titel": "Mr. Monk's letzter Fall",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Krimi",
+    "Mystery",
+    "Fernsehfilm"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7c1c6a3044b445cc25e8e213dc9a69ab.jpg"
+  },
+  {
+   "id": "36a64471bb912609debbf68c1114bc50",
+   "titel": "Mr. No Pain",
+   "jahr": 2025,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "36a64471bb912609debbf68c1114bc50.jpg"
+  },
+  {
+   "id": "689334d4a9757b91d6af5d29eb63e878",
+   "titel": "Mufasa: Der König der Löwen",
+   "jahr": 2024,
+   "fsk": 6,
+   "genres": [
+    "Abenteuer",
+    "Familie",
+    "Animation"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "689334d4a9757b91d6af5d29eb63e878.jpg"
+  },
+  {
+   "id": "2caad9fa3c26e466720921847c7ebc50",
+   "titel": "Mutiny",
+   "jahr": 2026,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "2caad9fa3c26e466720921847c7ebc50.jpg"
+  },
+  {
+   "id": "0df7f0031062cfe553633ea2b7838889",
+   "titel": "My Girl - Meine erste Liebe",
+   "jahr": 1991,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0df7f0031062cfe553633ea2b7838889.jpg"
+  },
+  {
+   "id": "92ff27c3bef204f1600398b9211002d1",
+   "titel": "My Girl 2 - Meine große Liebe",
+   "jahr": 1994,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Familie"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "92ff27c3bef204f1600398b9211002d1.jpg"
+  },
+  {
+   "id": "b1efd15538df2779fbe189963ce49ef7",
+   "titel": "My Secret Life",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b1efd15538df2779fbe189963ce49ef7.jpg"
+  },
+  {
+   "id": "3942b0019db3d73cac5237cd19542305",
+   "titel": "Nerve",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Mystery",
+    "Abenteuer",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "3942b0019db3d73cac5237cd19542305.jpg"
+  },
+  {
+   "id": "ac98c12a003a80b9ced1845dc9199db4",
+   "titel": "New Jack City",
+   "jahr": 1991,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "ac98c12a003a80b9ced1845dc9199db4.jpg"
+  },
+  {
+   "id": "a0e10351cdbdd68eef4266340680eb90",
+   "titel": "Next",
+   "jahr": 2007,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a0e10351cdbdd68eef4266340680eb90.jpg"
+  },
+  {
+   "id": "c6528cbe5f0ace06ca18c7f5f29ad451",
+   "titel": "Night Always Comes",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c6528cbe5f0ace06ca18c7f5f29ad451.jpg"
+  },
+  {
+   "id": "9b1660e1d203edcac464c061751aa6fd",
+   "titel": "Night Teeth",
+   "jahr": 2021,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9b1660e1d203edcac464c061751aa6fd.jpg"
+  },
+  {
+   "id": "b8553f303fc00add060bf2dee0b76b02",
+   "titel": "Nightcrawler - Jede Nacht hat ihren Preis",
+   "jahr": 2014,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b8553f303fc00add060bf2dee0b76b02.jpg"
+  },
+  {
+   "id": "84127f51de68786356c9c0660303084a",
+   "titel": "No Filter",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Fantasy",
+    "Fernsehfilm"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "84127f51de68786356c9c0660303084a.jpg"
+  },
+  {
+   "id": "ef0c409a3251f31479545eae52e80d09",
+   "titel": "No Hard Feelings",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ef0c409a3251f31479545eae52e80d09.jpg"
+  },
+  {
+   "id": "61fab285270f3200ce425213ab95585b",
+   "titel": "No Way Up",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "61fab285270f3200ce425213ab95585b.jpg"
+  },
+  {
+   "id": "ffb554d410f8e7055c1650fe4aac87aa",
+   "titel": "Nobody 2",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "ffb554d410f8e7055c1650fe4aac87aa.jpg"
+  },
+  {
+   "id": "2fc6f39b06c7eb71c8548903d22d0ccd",
+   "titel": "Nocturne",
+   "jahr": 2020,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2fc6f39b06c7eb71c8548903d22d0ccd.jpg"
+  },
+  {
+   "id": "78c106be8b4ab70875afe7f8ac468934",
+   "titel": "Nosferatu - Der Untote",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "78c106be8b4ab70875afe7f8ac468934.jpg"
+  },
+  {
+   "id": "0a9449af5bd532bc16d22aba9580773f",
+   "titel": "Nur noch 60 Sekunden",
+   "jahr": 2000,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0a9449af5bd532bc16d22aba9580773f.jpg"
+  },
+  {
+   "id": "0dfd4db6da315ddaec8fa07983be009e",
+   "titel": "Nürnberg",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Geschichte",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0dfd4db6da315ddaec8fa07983be009e.jpg"
+  },
+  {
+   "id": "ebd2f55fb9910072fa27bdcc2dc0ffaf",
+   "titel": "Oben",
+   "jahr": 2009,
+   "fsk": 0,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Familie",
+    "Abenteuer"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "ebd2f55fb9910072fa27bdcc2dc0ffaf.jpg"
+  },
+  {
+   "id": "40f962d5154f57202b2f166114d4ef23",
+   "titel": "Obsession – Du sollst mich lieben",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "40f962d5154f57202b2f166114d4ef23.jpg"
+  },
+  {
+   "id": "9bfa89be5c33e707b4a5204579a9f42d",
+   "titel": "Old Man",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9bfa89be5c33e707b4a5204579a9f42d.jpg"
+  },
+  {
+   "id": "8932de7a41e440adc6fb1ad3f7936bd3",
+   "titel": "Oldboy",
+   "jahr": 2003,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8932de7a41e440adc6fb1ad3f7936bd3.jpg"
+  },
+  {
+   "id": "8bc4be5fea25b1102e2ed80cb7881684",
+   "titel": "One Battle After Another",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Krimi",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8bc4be5fea25b1102e2ed80cb7881684.jpg"
+  },
+  {
+   "id": "8f4b80cd0218cd8be281abd50945ddbf",
+   "titel": "Ong Bak",
+   "jahr": 2003,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Krimi",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "8f4b80cd0218cd8be281abd50945ddbf.jpg"
+  },
+  {
+   "id": "e62e7948fda74e86f4281e84bfad019c",
+   "titel": "Oppenheimer",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e62e7948fda74e86f4281e84bfad019c.jpg"
+  },
+  {
+   "id": "649c6df563407cbc53ef447b124c2f31",
+   "titel": "Out of Control",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "649c6df563407cbc53ef447b124c2f31.jpg"
+  },
+  {
+   "id": "fa3aa73a156577ab720cae6aedab4655",
+   "titel": "Outlaw",
+   "jahr": 2007,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "fa3aa73a156577ab720cae6aedab4655.jpg"
+  },
+  {
+   "id": "c09252a4a24fffe6bd442d748cf0a30e",
+   "titel": "Passengers",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Romantik",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c09252a4a24fffe6bd442d748cf0a30e.jpg"
+  },
+  {
+   "id": "23935c73e608ce37d960111ab2fc99bd",
+   "titel": "Peaky Blinders – The Immortal Man",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "23935c73e608ce37d960111ab2fc99bd.jpg"
+  },
+  {
+   "id": "d0e2722d5785d2a5f5c723e133df37f1",
+   "titel": "Pearl",
+   "jahr": 2022,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d0e2722d5785d2a5f5c723e133df37f1.jpg"
+  },
+  {
+   "id": "431d5b3941bc1d5a6b18b049a8828a71",
+   "titel": "People We Meet on Vacation",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Romantik",
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "431d5b3941bc1d5a6b18b049a8828a71.jpg"
+  },
+  {
+   "id": "58f00a0c2e000b4d2589b9479e8928fb",
+   "titel": "Phantastische Tierwesen: Dumbledores Geheimnisse",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Fantasy",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "58f00a0c2e000b4d2589b9479e8928fb.jpg"
+  },
+  {
+   "id": "6d5928f33a4af1f77f6c9e6143a4b6c7",
+   "titel": "Phantastische Tierwesen: Grindelwalds Verbrechen",
+   "jahr": 2018,
+   "fsk": 12,
+   "genres": [
+    "Fantasy",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6d5928f33a4af1f77f6c9e6143a4b6c7.jpg"
+  },
+  {
+   "id": "f362edced000f2c8560bb518325decdf",
+   "titel": "Piece by Piece",
+   "jahr": 2024,
+   "fsk": 0,
+   "genres": [
+    "Animation",
+    "Musik"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "f362edced000f2c8560bb518325decdf.jpg"
+  },
+  {
+   "id": "8912bbcc9657e543a7161337656c0247",
+   "titel": "Pirates of the Caribbean - Fluch der Karibik 2",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Fantasy",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8912bbcc9657e543a7161337656c0247.jpg"
+  },
+  {
+   "id": "a86e9c0bc48b1f1fa46f5cd4e98b0ebf",
+   "titel": "Planet der Affen - Prevolution",
+   "jahr": 2011,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Action",
+    "Drama",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a86e9c0bc48b1f1fa46f5cd4e98b0ebf.jpg"
+  },
+  {
+   "id": "b217aa179c7ff57ad8aea53593ec82bd",
+   "titel": "Planet der Affen - Revolution",
+   "jahr": 2014,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b217aa179c7ff57ad8aea53593ec82bd.jpg"
+  },
+  {
+   "id": "2303e51a7a05e5c2c8e54dc883b09432",
+   "titel": "Planet der Affen - Survival",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Science-Fiction",
+    "Krieg"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2303e51a7a05e5c2c8e54dc883b09432.jpg"
+  },
+  {
+   "id": "c3ebb73ac072d19b7484abbcc1450924",
+   "titel": "Planet der Affen: New Kingdom",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer",
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c3ebb73ac072d19b7484abbcc1450924.jpg"
+  },
+  {
+   "id": "a1adcd64d1211417ee1f98afb7b9feb4",
+   "titel": "Play Dead - Die Todgeweihte",
+   "jahr": 2025,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a1adcd64d1211417ee1f98afb7b9feb4.jpg"
+  },
+  {
+   "id": "c00ca571da8d0ab4195b3512ad19f4a0",
+   "titel": "Play Dirty",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c00ca571da8d0ab4195b3512ad19f4a0.jpg"
+  },
+  {
+   "id": "9388425adb63c1db93dbab9a8e8da4e7",
+   "titel": "Poor Things",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Romantik",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9388425adb63c1db93dbab9a8e8da4e7.jpg"
+  },
+  {
+   "id": "33c1a6d5b7e6049662445e6b333b8d83",
+   "titel": "Possession - Das Dunkle in Dir",
+   "jahr": 2012,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "33c1a6d5b7e6049662445e6b333b8d83.jpg"
+  },
+  {
+   "id": "baaabf3b96aa05e343cf17da099dc596",
+   "titel": "Precious Cargo",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "baaabf3b96aa05e343cf17da099dc596.jpg"
+  },
+  {
+   "id": "7170205ff650006a86efc4645b904c04",
+   "titel": "Predator: Badlands",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "7170205ff650006a86efc4645b904c04.jpg"
+  },
+  {
+   "id": "916c4855c8c6b23b912adc01542d75d4",
+   "titel": "Prison Fighter",
+   "jahr": 2011,
+   "fsk": null,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "916c4855c8c6b23b912adc01542d75d4.jpg"
+  },
+  {
+   "id": "3a281d8df7cdb19a19e09f8d5b6a38dd",
+   "titel": "Prisoners",
+   "jahr": 2013,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3a281d8df7cdb19a19e09f8d5b6a38dd.jpg"
+  },
+  {
+   "id": "0a034bdda47e5871be8ccf06865abe70",
+   "titel": "Prophecy of the Devil",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0a034bdda47e5871be8ccf06865abe70.jpg"
+  },
+  {
+   "id": "dda62669208169b6a24b455ef15aafd6",
+   "titel": "Protector",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "dda62669208169b6a24b455ef15aafd6.jpg"
+  },
+  {
+   "id": "4d546e14d10238989bc2962c9a0449fe",
+   "titel": "Queer",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "4d546e14d10238989bc2962c9a0449fe.jpg"
+  },
+  {
+   "id": "d1edd7b415b1879aeeb6d5fed678f245",
+   "titel": "Rache - Bound To Vengeance",
+   "jahr": 2015,
+   "fsk": 18,
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d1edd7b415b1879aeeb6d5fed678f245.jpg"
+  },
+  {
+   "id": "d27a70f5f3f2ec5b5a6b9c11a5e3ea74",
+   "titel": "Rache - Bound To Vengeance",
+   "jahr": 2015,
+   "fsk": 18,
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d27a70f5f3f2ec5b5a6b9c11a5e3ea74.jpg"
+  },
+  {
+   "id": "3566c924a8462e38beb7ffd246c275f8",
+   "titel": "Ready or Not 2",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Horror",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3566c924a8462e38beb7ffd246c275f8.jpg"
+  },
+  {
+   "id": "a5b7a6cf97602a77444efbc26dfa3eeb",
+   "titel": "Ready Player One",
+   "jahr": 2018,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a5b7a6cf97602a77444efbc26dfa3eeb.jpg"
+  },
+  {
+   "id": "e9d70c951a8519d1e239930a831e7a76",
+   "titel": "Red One - Alarmstufe Weihnachten",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e9d70c951a8519d1e239930a831e7a76.jpg"
+  },
+  {
+   "id": "82ffd91db8d1fbec606c31248a405b50",
+   "titel": "Redemption - Früchte des Zorns",
+   "jahr": 2004,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Fernsehfilm"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "82ffd91db8d1fbec606c31248a405b50.jpg"
+  },
+  {
+   "id": "9146d2a7caa2a1a9adba2920a7b4e6ac",
+   "titel": "Renfield",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Komödie",
+    "Horror",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9146d2a7caa2a1a9adba2920a7b4e6ac.jpg"
+  },
+  {
+   "id": "f59a96e9ee4dddc0837139eaf6a006f2",
+   "titel": "Replicas",
+   "jahr": 2018,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f59a96e9ee4dddc0837139eaf6a006f2.jpg"
+  },
+  {
+   "id": "693a00f7a7a2be660e54cab40e943c84",
+   "titel": "Reprisal",
+   "jahr": 2018,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "693a00f7a7a2be660e54cab40e943c84.jpg"
+  },
+  {
+   "id": "992d8446d4bd4a394d698914745f3592",
+   "titel": "Resident Evil",
+   "jahr": 2002,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "992d8446d4bd4a394d698914745f3592.jpg"
+  },
+  {
+   "id": "077577b0d95ef502c46cb180020f19ca",
+   "titel": "Resident Evil: Afterlife",
+   "jahr": 2010,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "077577b0d95ef502c46cb180020f19ca.jpg"
+  },
+  {
+   "id": "441064fc3052747f427242a2e36727d9",
+   "titel": "Resident Evil: Apocalypse",
+   "jahr": 2004,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "441064fc3052747f427242a2e36727d9.jpg"
+  },
+  {
+   "id": "2d1b4af71d3688b829981ed8c1b55197",
+   "titel": "Resident Evil: Extinction",
+   "jahr": 2007,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2d1b4af71d3688b829981ed8c1b55197.jpg"
+  },
+  {
+   "id": "e710b2223b5d8b40d43ee09f162085cd",
+   "titel": "Resident Evil: Retribution",
+   "jahr": 2012,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e710b2223b5d8b40d43ee09f162085cd.jpg"
+  },
+  {
+   "id": "b74a49bd6efcaab23dc75d143b42bf9f",
+   "titel": "Resident Evil: The Final Chapter",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "b74a49bd6efcaab23dc75d143b42bf9f.jpg"
+  },
+  {
+   "id": "d91d99d951dfc54b9446c58b6e82e439",
+   "titel": "Resident Evil: The Final Chapter",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d91d99d951dfc54b9446c58b6e82e439.jpg"
+  },
+  {
+   "id": "7a640cfb3f0117052fb8b962d91d3393",
+   "titel": "Retribution",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7a640cfb3f0117052fb8b962d91d3393.jpg"
+  },
+  {
+   "id": "43530873ce2c04934771c3a77b5eb402",
+   "titel": "Return to Silent Hill",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "43530873ce2c04934771c3a77b5eb402.jpg"
+  },
+  {
+   "id": "825194b272186156e4422b82e35df605",
+   "titel": "Ricky Stanicky",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "825194b272186156e4422b82e35df605.jpg"
+  },
+  {
+   "id": "f33de39c1672c9a92f3e922985967b08",
+   "titel": "Ride Along",
+   "jahr": 2014,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f33de39c1672c9a92f3e922985967b08.jpg"
+  },
+  {
+   "id": "1eff28a53bb448d3d19a5ab13006ece8",
+   "titel": "Rosario",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "1eff28a53bb448d3d19a5ab13006ece8.jpg"
+  },
+  {
+   "id": "e5204c7586014b85c74372a2ead6c56b",
+   "titel": "Running on Karma",
+   "jahr": 2003,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e5204c7586014b85c74372a2ead6c56b.jpg"
+  },
+  {
+   "id": "2c22a68aada6d579e9db2fa5a6924ff8",
+   "titel": "Running Scared",
+   "jahr": 2006,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2c22a68aada6d579e9db2fa5a6924ff8.jpg"
+  },
+  {
+   "id": "ba18b5f4d3d17629a8c107efbd185e48",
+   "titel": "Sanctuary",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ba18b5f4d3d17629a8c107efbd185e48.jpg"
+  },
+  {
+   "id": "6b79bddb637b23a05600ba9a885b569b",
+   "titel": "Saw X",
+   "jahr": 2023,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6b79bddb637b23a05600ba9a885b569b.jpg"
+  },
+  {
+   "id": "d3a508e9614410d2ad41542f245f7aaa",
+   "titel": "Scary Movie",
+   "jahr": 2000,
+   "fsk": 16,
+   "genres": [
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d3a508e9614410d2ad41542f245f7aaa.jpg"
+  },
+  {
+   "id": "40a5e2e7dcf9f23ce98fdaed44a8d4b7",
+   "titel": "Scary Movie 2",
+   "jahr": 2001,
+   "fsk": 16,
+   "genres": [
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "40a5e2e7dcf9f23ce98fdaed44a8d4b7.jpg"
+  },
+  {
+   "id": "76f615aa3f5bfab738a4722cda375407",
+   "titel": "Scary Movie 3",
+   "jahr": 2003,
+   "fsk": 12,
+   "genres": [
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "76f615aa3f5bfab738a4722cda375407.jpg"
+  },
+  {
+   "id": "25898794d81a17b864a60bd0b20ae6d7",
+   "titel": "Scary Movie 4",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "25898794d81a17b864a60bd0b20ae6d7.jpg"
+  },
+  {
+   "id": "b87902cbbe849ca4b0d2a43d428d8253",
+   "titel": "Schneewittchen",
+   "jahr": 2025,
+   "fsk": 0,
+   "genres": [
+    "Drama",
+    "Familie",
+    "Fantasy",
+    "Musical"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "b87902cbbe849ca4b0d2a43d428d8253.jpg"
+  },
+  {
+   "id": "58f937e10f5a52f7ee2ba95250f8716d",
+   "titel": "Scooby-Doo",
+   "jahr": 2002,
+   "fsk": 6,
+   "genres": [
+    "Mystery",
+    "Abenteuer",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "58f937e10f5a52f7ee2ba95250f8716d.jpg"
+  },
+  {
+   "id": "173f1b8c605f6af0610812689d41a665",
+   "titel": "Scream 7",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "173f1b8c605f6af0610812689d41a665.jpg"
+  },
+  {
+   "id": "86ed8dc3d574f1cde75a022094c9ea70",
+   "titel": "Scream 7",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "86ed8dc3d574f1cde75a022094c9ea70.jpg"
+  },
+  {
+   "id": "86bd01cbea1b73b23c9b53953f48d620",
+   "titel": "Send Help",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "86bd01cbea1b73b23c9b53953f48d620.jpg"
+  },
+  {
+   "id": "cfc4bee3b37b4f91be81b2955d7c4997",
+   "titel": "September 5",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Geschichte",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "cfc4bee3b37b4f91be81b2955d7c4997.jpg"
+  },
+  {
+   "id": "928438c1a22f35d65e464821c91ceffa",
+   "titel": "Set Up",
+   "jahr": 2011,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "928438c1a22f35d65e464821c91ceffa.jpg"
+  },
+  {
+   "id": "edbc48e48f6506cf31ef2e96683e5890",
+   "titel": "Shame",
+   "jahr": 2011,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "edbc48e48f6506cf31ef2e96683e5890.jpg"
+  },
+  {
+   "id": "dfba3945721574a0e6edd78f84e69213",
+   "titel": "Shell - Schönheit hat ihren Preis",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Horror",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "dfba3945721574a0e6edd78f84e69213.jpg"
+  },
+  {
+   "id": "8e41a3162e897a72e2efe23d50b8543d",
+   "titel": "Shelter",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8e41a3162e897a72e2efe23d50b8543d.jpg"
+  },
+  {
+   "id": "66c65d29a75c14243dccbc0cc31c8d56",
+   "titel": "Shooter",
+   "jahr": 2007,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "66c65d29a75c14243dccbc0cc31c8d56.jpg"
+  },
+  {
+   "id": "994c1920009d753d8a23dadef1f99269",
+   "titel": "Sicario",
+   "jahr": 2015,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "994c1920009d753d8a23dadef1f99269.jpg"
+  },
+  {
+   "id": "56bb29ce9436a18a15f2c0d6a4d86f4b",
+   "titel": "Sicario 2",
+   "jahr": 2018,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "56bb29ce9436a18a15f2c0d6a4d86f4b.jpg"
+  },
+  {
+   "id": "671968345aa860d5ba98fff92abaeb21",
+   "titel": "Simulant",
+   "jahr": 2023,
+   "fsk": null,
+   "genres": [
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "671968345aa860d5ba98fff92abaeb21.jpg"
+  },
+  {
+   "id": "2b2f1c089de4f766e6fa74f46c1cbc29",
+   "titel": "Siren - Verführung ist mörderisch",
+   "jahr": 2010,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2b2f1c089de4f766e6fa74f46c1cbc29.jpg"
+  },
+  {
+   "id": "6a57ca9074483d772f9d2c507c34e4a8",
+   "titel": "Sleeping Dogs",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Mystery",
+    "Thriller",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6a57ca9074483d772f9d2c507c34e4a8.jpg"
+  },
+  {
+   "id": "84ac296517ce2bf462fd59c0b1ddf7c5",
+   "titel": "Sleepless - Eine tödliche Nacht",
+   "jahr": 2017,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "84ac296517ce2bf462fd59c0b1ddf7c5.jpg"
+  },
+  {
+   "id": "f117c624e4be76c5dd5a883f0e0ca3e8",
+   "titel": "Smile - Siehst du es auch?",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f117c624e4be76c5dd5a883f0e0ca3e8.jpg"
+  },
+  {
+   "id": "9a749ed701bc357d66f69ae27a447424",
+   "titel": "Smile 2: Siehst du es auch?",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9a749ed701bc357d66f69ae27a447424.jpg"
+  },
+  {
+   "id": "3a8dfbe1e88d4ac6251d5bd030c5429b",
+   "titel": "Snow White and the Huntsman",
+   "jahr": 2012,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3a8dfbe1e88d4ac6251d5bd030c5429b.jpg"
+  },
+  {
+   "id": "f4002595ac08b27e81971a29256a862f",
+   "titel": "Sonic the Hedgehog 3",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Komödie",
+    "Familie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "f4002595ac08b27e81971a29256a862f.jpg"
+  },
+  {
+   "id": "a99bb5ce8a0d31eed14379111fcdb78a",
+   "titel": "Sorority Party Massacre",
+   "jahr": 2012,
+   "fsk": 18,
+   "genres": [
+    "Thriller",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a99bb5ce8a0d31eed14379111fcdb78a.jpg"
+  },
+  {
+   "id": "854efa38b1f9d3fd7b5b8b9453fec00a",
+   "titel": "Sound of Freedom",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "854efa38b1f9d3fd7b5b8b9453fec00a.jpg"
+  },
+  {
+   "id": "aaccb9a6e5934948ff08251a50fd1c78",
+   "titel": "South Park: Das Ende der Fettleibigkeit",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Fernsehfilm"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "aaccb9a6e5934948ff08251a50fd1c78.jpg"
+  },
+  {
+   "id": "0175eee222c14eebfed062ac36dc7b8e",
+   "titel": "South Park: Joining the Panderverse",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Science-Fiction",
+    "Fernsehfilm"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0175eee222c14eebfed062ac36dc7b8e.jpg"
+  },
+  {
+   "id": "9aa85de95ed5ee7027a68fbfe78ab5a4",
+   "titel": "Southpaw",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9aa85de95ed5ee7027a68fbfe78ab5a4.jpg"
+  },
+  {
+   "id": "db3f0722c90a4b489bb9ad4519dde3ba",
+   "titel": "Speak No Evil",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "db3f0722c90a4b489bb9ad4519dde3ba.jpg"
+  },
+  {
+   "id": "74d0f48dbef8e44bfd3638eb1e0d0231",
+   "titel": "Speed",
+   "jahr": 1994,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "74d0f48dbef8e44bfd3638eb1e0d0231.jpg"
+  },
+  {
+   "id": "7aba2a8b67a5b5fb6a31238dfec195a8",
+   "titel": "Spencer",
+   "jahr": 2021,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7aba2a8b67a5b5fb6a31238dfec195a8.jpg"
+  },
+  {
+   "id": "e0f38708f77f4cbe611c644a30836c2a",
+   "titel": "Spermageddon",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Musical"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e0f38708f77f4cbe611c644a30836c2a.jpg"
+  },
+  {
+   "id": "da2e115f99c82629fb3c31961a55c068",
+   "titel": "Spider-Man: Homecoming",
+   "jahr": 2017,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "da2e115f99c82629fb3c31961a55c068.jpg"
+  },
+  {
+   "id": "9fa418bab3ab36cebafc1dac967253fe",
+   "titel": "Spy Games - Grenzenlose Jagd",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9fa418bab3ab36cebafc1dac967253fe.jpg"
+  },
+  {
+   "id": "cfbc3a139f77cb45840191c5c18c1dcd",
+   "titel": "Stans",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Dokumentation",
+    "Musik"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "cfbc3a139f77cb45840191c5c18c1dcd.jpg"
+  },
+  {
+   "id": "d170bcc96b81ca0d83393ee9e493bb16",
+   "titel": "Stars at Noon",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Romantik",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d170bcc96b81ca0d83393ee9e493bb16.jpg"
+  },
+  {
+   "id": "52f925ba98b71f58296cdb8e880cfb3f",
+   "titel": "State of Play - Stand der Dinge",
+   "jahr": 2009,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Krimi",
+    "Mystery",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "52f925ba98b71f58296cdb8e880cfb3f.jpg"
+  },
+  {
+   "id": "2668737a5201bc1e4cc60aea136c7a56",
+   "titel": "Step Up",
+   "jahr": 2006,
+   "fsk": 6,
+   "genres": [
+    "Musik",
+    "Drama",
+    "Romantik",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2668737a5201bc1e4cc60aea136c7a56.jpg"
+  },
+  {
+   "id": "7805746fce4cb1896c916a9d1cc22eb4",
+   "titel": "Step Up - Miami Heat",
+   "jahr": 2012,
+   "fsk": 6,
+   "genres": [
+    "Musik",
+    "Drama",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7805746fce4cb1896c916a9d1cc22eb4.jpg"
+  },
+  {
+   "id": "127fb103f65e5b4e640c0b45fb2ca147",
+   "titel": "Step Up 3",
+   "jahr": 2010,
+   "fsk": 6,
+   "genres": [
+    "Drama",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "127fb103f65e5b4e640c0b45fb2ca147.jpg"
+  },
+  {
+   "id": "bad5303fb907364235eff4192c58aacf",
+   "titel": "Step Up to the Streets",
+   "jahr": 2008,
+   "fsk": 6,
+   "genres": [
+    "Musik",
+    "Drama",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "bad5303fb907364235eff4192c58aacf.jpg"
+  },
+  {
+   "id": "0e53a68e5fda3ca373907f56643cb877",
+   "titel": "Steve",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0e53a68e5fda3ca373907f56643cb877.jpg"
+  },
+  {
+   "id": "c637cad4ca65fc283da050dac99858b3",
+   "titel": "Steve Jobs",
+   "jahr": 2015,
+   "fsk": 6,
+   "genres": [
+    "Drama",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c637cad4ca65fc283da050dac99858b3.jpg"
+  },
+  {
+   "id": "3c94a45fe378323fde1ea20c1e269b23",
+   "titel": "Sting",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "3c94a45fe378323fde1ea20c1e269b23.jpg"
+  },
+  {
+   "id": "dbc7fad4d939b60329577f0e6982683a",
+   "titel": "Stirb langsam",
+   "jahr": 1988,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "dbc7fad4d939b60329577f0e6982683a.jpg"
+  },
+  {
+   "id": "ae85f76e8622b6b85085d70268b75752",
+   "titel": "Stirb langsam - Ein guter Tag zum Sterben",
+   "jahr": 2013,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "ae85f76e8622b6b85085d70268b75752.jpg"
+  },
+  {
+   "id": "173c3faa9130fa757c1ba212c18b9b81",
+   "titel": "Stirb langsam - Jetzt erst recht",
+   "jahr": 1995,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "173c3faa9130fa757c1ba212c18b9b81.jpg"
+  },
+  {
+   "id": "77a4b828ffe93043ef7aa264ac825bad",
+   "titel": "Stirb langsam 2",
+   "jahr": 1990,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "77a4b828ffe93043ef7aa264ac825bad.jpg"
+  },
+  {
+   "id": "501fcb34e69547ebcb7d7a8caffe8e40",
+   "titel": "Stirb langsam 4.0",
+   "jahr": 2007,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "501fcb34e69547ebcb7d7a8caffe8e40.jpg"
+  },
+  {
+   "id": "fb93b60e30870c9d627f3e3a174d1265",
+   "titel": "Straight Outta Compton",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Musik",
+    "Geschichte"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "fb93b60e30870c9d627f3e3a174d1265.jpg"
+  },
+  {
+   "id": "914d04f6c8cb1b2c47060ac59215e667",
+   "titel": "Street Kings",
+   "jahr": 2008,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "914d04f6c8cb1b2c47060ac59215e667.jpg"
+  },
+  {
+   "id": "a06edab73ca6ef1a7290ec7c671c5ae5",
+   "titel": "Streets of Blood",
+   "jahr": 2009,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a06edab73ca6ef1a7290ec7c671c5ae5.jpg"
+  },
+  {
+   "id": "e4e7195d112fa2ea4b22f30c043750a5",
+   "titel": "Subservience",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e4e7195d112fa2ea4b22f30c043750a5.jpg"
+  },
+  {
+   "id": "93db390881087de17505f273e2e31084",
+   "titel": "Suicide Squad",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "93db390881087de17505f273e2e31084.jpg"
+  },
+  {
+   "id": "47932db5e1e45b462ea6c6bdfda0aa71",
+   "titel": "Sweet Karma",
+   "jahr": 2009,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "47932db5e1e45b462ea6c6bdfda0aa71.jpg"
+  },
+  {
+   "id": "9c3f3e3b16f52d1e1962e20d4a72e449",
+   "titel": "Sympathy for the Devil",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9c3f3e3b16f52d1e1962e20d4a72e449.jpg"
+  },
+  {
+   "id": "45375007daec3aad8b7e6cbfcb886a9c",
+   "titel": "Tarot - Tödliche Prophezeiung",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "45375007daec3aad8b7e6cbfcb886a9c.jpg"
+  },
+  {
+   "id": "70c7cf1266c31a1d35b04b7092ff5e0b",
+   "titel": "Ted 2",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "70c7cf1266c31a1d35b04b7092ff5e0b.jpg"
+  },
+  {
+   "id": "5fb69b5078896ff4c1447ed118c9e304",
+   "titel": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+   "jahr": 2023,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "5fb69b5078896ff4c1447ed118c9e304.jpg"
+  },
+  {
+   "id": "fad915299c4a60df5571416145b55dcf",
+   "titel": "Terminal - Rache war nie schöner",
+   "jahr": 2018,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "fad915299c4a60df5571416145b55dcf.jpg"
+  },
+  {
+   "id": "74db4f178c031118402166bba7e63bff",
+   "titel": "Terrifier",
+   "jahr": 2016,
+   "fsk": null,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "74db4f178c031118402166bba7e63bff.jpg"
+  },
+  {
+   "id": "33962b0e317c0d7ebc80cac7fac297a9",
+   "titel": "Terrifier 2",
+   "jahr": 2022,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "33962b0e317c0d7ebc80cac7fac297a9.jpg"
+  },
+  {
+   "id": "7fabfab123b98571d3e7dc79c965a957",
+   "titel": "Terrifier 3",
+   "jahr": 2024,
+   "fsk": null,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7fabfab123b98571d3e7dc79c965a957.jpg"
+  },
+  {
+   "id": "966693c02338fbc7653d9c775b0013ef",
+   "titel": "Texas Chainsaw 3D",
+   "jahr": 2013,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "966693c02338fbc7653d9c775b0013ef.jpg"
+  },
+  {
+   "id": "a3d5d497843e698531d2d1860d49f790",
+   "titel": "Thanksgiving",
+   "jahr": 2023,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a3d5d497843e698531d2d1860d49f790.jpg"
+  },
+  {
+   "id": "9fcd94a35a44a48365a60314df0be607",
+   "titel": "The Abandoned - Die Verlassenen",
+   "jahr": 2006,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9fcd94a35a44a48365a60314df0be607.jpg"
+  },
+  {
+   "id": "a3272f02717d8c5df0b766a7f8945e5e",
+   "titel": "The Accountant",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a3272f02717d8c5df0b766a7f8945e5e.jpg"
+  },
+  {
+   "id": "3993c6d779b0855f24876d8d90a125bd",
+   "titel": "The Accountant 2",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3993c6d779b0855f24876d8d90a125bd.jpg"
+  },
+  {
+   "id": "740874cba1eefa0d6d807cb5057c3262",
+   "titel": "The Alto Knights",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "740874cba1eefa0d6d807cb5057c3262.jpg"
+  },
+  {
+   "id": "93e91e7fa2e1c2394266f70ad2101e09",
+   "titel": "The Amateur",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Spannung",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "93e91e7fa2e1c2394266f70ad2101e09.jpg"
+  },
+  {
+   "id": "5997615754f672d26380bbc831eeb1a8",
+   "titel": "The Apprentice - The Trump Story",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Geschichte",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5997615754f672d26380bbc831eeb1a8.jpg"
+  },
+  {
+   "id": "41ba6ba5d2666ebdfbb4d2210cf52b92",
+   "titel": "The Astronaut",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "41ba6ba5d2666ebdfbb4d2210cf52b92.jpg"
+  },
+  {
+   "id": "cb7614f13ac79f9483580caa60987c7d",
+   "titel": "The Batman",
+   "jahr": 2022,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "cb7614f13ac79f9483580caa60987c7d.jpg"
+  },
+  {
+   "id": "a7af30aa37f47ffe838dfae081b307fe",
+   "titel": "The Beekeeper",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Krimi",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a7af30aa37f47ffe838dfae081b307fe.jpg"
+  },
+  {
+   "id": "f34864148d4c4aa292136ef939f0f804",
+   "titel": "The Big Short",
+   "jahr": 2015,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "f34864148d4c4aa292136ef939f0f804.jpg"
+  },
+  {
+   "id": "4eef08e06cf02f92931f96f26258d338",
+   "titel": "The Black Phone - Sprich nie mit Fremden",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "4eef08e06cf02f92931f96f26258d338.jpg"
+  },
+  {
+   "id": "14299a0941be584d6d9eb23ac08efc5f",
+   "titel": "The Bleeding House",
+   "jahr": 2011,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "14299a0941be584d6d9eb23ac08efc5f.jpg"
+  },
+  {
+   "id": "53947917eb5d496a59b0cb31a1682c66",
+   "titel": "The Boogeyman",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "53947917eb5d496a59b0cb31a1682c66.jpg"
+  },
+  {
+   "id": "0176cdfc6c4d51332f9b9aa5e6ee2a0e",
+   "titel": "The Book of Eli",
+   "jahr": 2010,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0176cdfc6c4d51332f9b9aa5e6ee2a0e.jpg"
+  },
+  {
+   "id": "b29af69c9eb4fc8fae5b9076beb56b6a",
+   "titel": "The Boy",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b29af69c9eb4fc8fae5b9076beb56b6a.jpg"
+  },
+  {
+   "id": "e6f5e0770c3fbcd2dc2c1ba65f289c22",
+   "titel": "The Bride! - Es lebe die Braut",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Horror",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e6f5e0770c3fbcd2dc2c1ba65f289c22.jpg"
+  },
+  {
+   "id": "e3300f30896fdc81877c1d0345d31f69",
+   "titel": "The Code - Vertraue keinem Dieb",
+   "jahr": 2009,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e3300f30896fdc81877c1d0345d31f69.jpg"
+  },
+  {
+   "id": "db7f45ec26be74f03570b618f5072c46",
+   "titel": "The Crow",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Fantasy",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "db7f45ec26be74f03570b618f5072c46.jpg"
+  },
+  {
+   "id": "38060d8d8c406e02e4273dc1d5914c26",
+   "titel": "The Crow - Die Krähe",
+   "jahr": 1994,
+   "fsk": 18,
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "38060d8d8c406e02e4273dc1d5914c26.jpg"
+  },
+  {
+   "id": "e2bfd5903182545806c186900476d442",
+   "titel": "The Da Vinci Code - Sakrileg",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "e2bfd5903182545806c186900476d442.jpg"
+  },
+  {
+   "id": "7fe87b5fb5eee6c4eabd1292554efddc",
+   "titel": "The Dark Knight",
+   "jahr": 2008,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7fe87b5fb5eee6c4eabd1292554efddc.jpg"
+  },
+  {
+   "id": "48e77afc7049c235071f9544e30f5d65",
+   "titel": "The Dating Game Killer",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "48e77afc7049c235071f9544e30f5d65.jpg"
+  },
+  {
+   "id": "61c89a76bd702885081f0f596c2081b8",
+   "titel": "The Electric State",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "61c89a76bd702885081f0f596c2081b8.jpg"
+  },
+  {
+   "id": "acb00d82b733711e7bc44b8f985e5b64",
+   "titel": "The Expendables",
+   "jahr": 2010,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "acb00d82b733711e7bc44b8f985e5b64.jpg"
+  },
+  {
+   "id": "12e19351dbbeb17ad2ba6dd5adde9509",
+   "titel": "The Expendables 2",
+   "jahr": 2012,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "12e19351dbbeb17ad2ba6dd5adde9509.jpg"
+  },
+  {
+   "id": "48e8d43289d116ffc19caa477e65cbaf",
+   "titel": "The Expendables 3",
+   "jahr": 2014,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "48e8d43289d116ffc19caa477e65cbaf.jpg"
+  },
+  {
+   "id": "a244b359123586c6cdd52975d03911e5",
+   "titel": "The Expendables 4",
+   "jahr": 2023,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a244b359123586c6cdd52975d03911e5.jpg"
+  },
+  {
+   "id": "1929a11e4acb79b111dcdf996b497403",
+   "titel": "The Fall Guy",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Romantik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "1929a11e4acb79b111dcdf996b497403.jpg"
+  },
+  {
+   "id": "d04851677313ec4bea64d756347c93ba",
+   "titel": "The Fantastic Four: First Steps",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Familie",
+    "Science-Fiction"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "d04851677313ec4bea64d756347c93ba.jpg"
+  },
+  {
+   "id": "f3fb6c41d2023f22b536442aed9cad54",
+   "titel": "The Fast and The Furious",
+   "jahr": 2001,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f3fb6c41d2023f22b536442aed9cad54.jpg"
+  },
+  {
+   "id": "54f1ea187db6c355dc718227a4c05148",
+   "titel": "The Fast and the Furious: Tokyo Drift",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "54f1ea187db6c355dc718227a4c05148.jpg"
+  },
+  {
+   "id": "3e9d7cae90c85db61ba3d3fbbb90a803",
+   "titel": "The Flash",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Action",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "3e9d7cae90c85db61ba3d3fbbb90a803.jpg"
+  },
+  {
+   "id": "58384bd97073e5ffc797bb75f2a099b2",
+   "titel": "The Good Nurse",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Krimi",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "58384bd97073e5ffc797bb75f2a099b2.jpg"
+  },
+  {
+   "id": "0ac03fbe64f2c42fe5d16bebc70c176c",
+   "titel": "The Housemaid - Wenn sie wüsste",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0ac03fbe64f2c42fe5d16bebc70c176c.jpg"
+  },
+  {
+   "id": "a467dfa43f2e22d717220bcdaf156b65",
+   "titel": "The Jester 2: Trick or Treat",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a467dfa43f2e22d717220bcdaf156b65.jpg"
+  },
+  {
+   "id": "36a957bbcefbcff0b4dae5fc3c829539",
+   "titel": "The Last Witch Hunter",
+   "jahr": 2015,
+   "fsk": 12,
+   "genres": [
+    "Fantasy",
+    "Action",
+    "Abenteuer",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "36a957bbcefbcff0b4dae5fc3c829539.jpg"
+  },
+  {
+   "id": "11f0263f3fbf692ccf5b1c909abbc292",
+   "titel": "The Life After",
+   "jahr": 2021,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "11f0263f3fbf692ccf5b1c909abbc292.jpg"
+  },
+  {
+   "id": "c09f91c991945d7f6bec187ae0474254",
+   "titel": "The Long Walk: Todesmarsch",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Horror",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c09f91c991945d7f6bec187ae0474254.jpg"
+  },
+  {
+   "id": "f2573f833d254ca43ac5fca9a96c50af",
+   "titel": "The Lost City - Das Geheimnis der verlorenen Stadt",
+   "jahr": 2022,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Komödie",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f2573f833d254ca43ac5fca9a96c50af.jpg"
+  },
+  {
+   "id": "746c7e0c2cb640bfb6b7a41dc21b7e0b",
+   "titel": "The Mechanic",
+   "jahr": 2011,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "746c7e0c2cb640bfb6b7a41dc21b7e0b.jpg"
+  },
+  {
+   "id": "6bcdc909943c43a4614e969c4f8993ac",
+   "titel": "The Monkey",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "6bcdc909943c43a4614e969c4f8993ac.jpg"
+  },
+  {
+   "id": "e8d975fd7e7f2a583fe2102d3edfdb77",
+   "titel": "The Negotiator",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e8d975fd7e7f2a583fe2102d3edfdb77.jpg"
+  },
+  {
+   "id": "463f60628b2b85027b3fae5fcf114a25",
+   "titel": "The Nightingale",
+   "jahr": 2019,
+   "fsk": 18,
+   "genres": [
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "463f60628b2b85027b3fae5fcf114a25.jpg"
+  },
+  {
+   "id": "1598a47cf31a90d9f72508d33dbe8c9d",
+   "titel": "The Old Guard 2",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "1598a47cf31a90d9f72508d33dbe8c9d.jpg"
+  },
+  {
+   "id": "294fa0afeca0cc29bc244f35655eb75d",
+   "titel": "The Outfit - Verbrechen nach Maß",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "294fa0afeca0cc29bc244f35655eb75d.jpg"
+  },
+  {
+   "id": "f41f3569faf9f87d3fec8c2d085b422c",
+   "titel": "The Runner",
+   "jahr": 2026,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f41f3569faf9f87d3fec8c2d085b422c.jpg"
+  },
+  {
+   "id": "0926279fdbb24d4876b704894a002557",
+   "titel": "The Running Man",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0926279fdbb24d4876b704894a002557.jpg"
+  },
+  {
+   "id": "b5c87d6ca8f32f44929e99810931e48e",
+   "titel": "The Shrine",
+   "jahr": 2010,
+   "fsk": 18,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b5c87d6ca8f32f44929e99810931e48e.jpg"
+  },
+  {
+   "id": "a466d11e7e3ef6280abd2433df8b5e8b",
+   "titel": "The Smashing Machine",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Biografie",
+    "Drama",
+    "Geschichte",
+    "Sport"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "a466d11e7e3ef6280abd2433df8b5e8b.jpg"
+  },
+  {
+   "id": "7dbd2baec7d32e64171a46799c24711c",
+   "titel": "The Substance",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7dbd2baec7d32e64171a46799c24711c.jpg"
+  },
+  {
+   "id": "b0aa232b3544f3bd5409d537993776ff",
+   "titel": "The Surfer",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b0aa232b3544f3bd5409d537993776ff.jpg"
+  },
+  {
+   "id": "225034c4759de7fd6f306efb9aa48114",
+   "titel": "The Ugly Stepsister",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Komödie",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "225034c4759de7fd6f306efb9aa48114.jpg"
+  },
+  {
+   "id": "4c54f6b153f2f894a045258f1b4e7d1e",
+   "titel": "The Underdoggs",
+   "jahr": 2024,
+   "fsk": 18,
+   "genres": [
+    "Komödie",
+    "Sport"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "4c54f6b153f2f894a045258f1b4e7d1e.jpg"
+  },
+  {
+   "id": "845d437a8c6749c51f2a0e507a8a844a",
+   "titel": "The Union",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "845d437a8c6749c51f2a0e507a8a844a.jpg"
+  },
+  {
+   "id": "8646c489f418cb68609f519ed02bc9cf",
+   "titel": "The Voyeurs",
+   "jahr": 2021,
+   "fsk": 16,
+   "genres": [
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8646c489f418cb68609f519ed02bc9cf.jpg"
+  },
+  {
+   "id": "ed467bd4d787f1763a19ee7cd7b08c08",
+   "titel": "The Wolf of Wall Street",
+   "jahr": 2013,
+   "fsk": null,
+   "genres": [
+    "Komödie",
+    "Krimi",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ed467bd4d787f1763a19ee7cd7b08c08.jpg"
+  },
+  {
+   "id": "0261001a6f2317e48eb4b525fabaf590",
+   "titel": "The Woman in Cabin 10",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Mystery",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0261001a6f2317e48eb4b525fabaf590.jpg"
+  },
+  {
+   "id": "1cf2faaaa6bb1b436ae19bde4e56d57b",
+   "titel": "The Wrecking Crew",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Komödie",
+    "Krimi",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "1cf2faaaa6bb1b436ae19bde4e56d57b.jpg"
+  },
+  {
+   "id": "7ff1e27a337a62223d7a1f5f188ff536",
+   "titel": "Thrash",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "7ff1e27a337a62223d7a1f5f188ff536.jpg"
+  },
+  {
+   "id": "1883eda05c0771064765fd3f113046ee",
+   "titel": "Thunderbolts*",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Komödie",
+    "Drama",
+    "Fantasy",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "1883eda05c0771064765fd3f113046ee.jpg"
+  },
+  {
+   "id": "d8d030aecb16d4a604ce13abd8da25db",
+   "titel": "Tiefe Wasser",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d8d030aecb16d4a604ce13abd8da25db.jpg"
+  },
+  {
+   "id": "48d80be1928a799043fb31e264177c16",
+   "titel": "Tin Soldier",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "48d80be1928a799043fb31e264177c16.jpg"
+  },
+  {
+   "id": "867c3bd5b0930e5c12272bb68f7ed49d",
+   "titel": "Titan: Die OceanGate-Katastrophe",
+   "jahr": 2025,
+   "fsk": 6,
+   "genres": [
+    "Dokumentation",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "867c3bd5b0930e5c12272bb68f7ed49d.jpg"
+  },
+  {
+   "id": "3513ac74e2810fd1f3a204947f8af73b",
+   "titel": "Titanic",
+   "jahr": 1997,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3513ac74e2810fd1f3a204947f8af73b.jpg"
+  },
+  {
+   "id": "c2b8ea1dc2cc472e83b1ed61a4ae7d8d",
+   "titel": "Together - Unzertrennlich",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c2b8ea1dc2cc472e83b1ed61a4ae7d8d.jpg"
+  },
+  {
+   "id": "2dd7ad085bf68c71c9ede8ea5c0f3bbd",
+   "titel": "Top Gun: Maverick",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "2dd7ad085bf68c71c9ede8ea5c0f3bbd.jpg"
+  },
+  {
+   "id": "21f319210186460fa2d9541c3b88b170",
+   "titel": "Toy Story",
+   "jahr": 1995,
+   "fsk": 0,
+   "genres": [
+    "Animation",
+    "Abenteuer",
+    "Komödie",
+    "Familie",
+    "Fantasy"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "21f319210186460fa2d9541c3b88b170.jpg"
+  },
+  {
+   "id": "918ec3946b08938af8fc64e172fa3cbf",
+   "titel": "Toy Story 2",
+   "jahr": 1999,
+   "fsk": 0,
+   "genres": [
+    "Abenteuer",
+    "Animation",
+    "Komödie",
+    "Familie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "918ec3946b08938af8fc64e172fa3cbf.jpg"
+  },
+  {
+   "id": "517396db290cc3fca55f88f67bc98d31",
+   "titel": "Toy Story 3",
+   "jahr": 2010,
+   "fsk": null,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Familie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "517396db290cc3fca55f88f67bc98d31.jpg"
+  },
+  {
+   "id": "7cae148d5529c371e216e39677370940",
+   "titel": "Toy Story 4 – Alles hört auf kein Kommando",
+   "jahr": 2019,
+   "fsk": 0,
+   "genres": [
+    "Abenteuer",
+    "Animation",
+    "Familie",
+    "Komödie"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "7cae148d5529c371e216e39677370940.jpg"
+  },
+  {
+   "id": "252ff0aad5e6d66e4844bbdd7d5c1e98",
+   "titel": "Toy Story 5",
+   "jahr": 2026,
+   "fsk": 0,
+   "genres": [
+    "Animation",
+    "Familie",
+    "Komödie",
+    "Abenteuer"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "252ff0aad5e6d66e4844bbdd7d5c1e98.jpg"
+  },
+  {
+   "id": "0fc346e4fa4e13517b4ffe635b0e7ba3",
+   "titel": "Trap House",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0fc346e4fa4e13517b4ffe635b0e7ba3.jpg"
+  },
+  {
+   "id": "8281484021a822ba41b661357d63252b",
+   "titel": "Trauma - Das Böse verlangt Loyalität",
+   "jahr": 2017,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "8281484021a822ba41b661357d63252b.jpg"
+  },
+  {
+   "id": "032f8ae34c6863f36a815a2f3247ef95",
+   "titel": "Triple 9",
+   "jahr": 2016,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "032f8ae34c6863f36a815a2f3247ef95.jpg"
+  },
+  {
+   "id": "3e140fb08f85783f49160ebb97bdba21",
+   "titel": "Trolls - Gemeinsam Stark",
+   "jahr": 2023,
+   "fsk": 0,
+   "genres": [
+    "Animation",
+    "Abenteuer",
+    "Komödie",
+    "Familie",
+    "Fantasy",
+    "Musical"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "3e140fb08f85783f49160ebb97bdba21.jpg"
+  },
+  {
+   "id": "88e62445338d9abc37792925cacc4dbd",
+   "titel": "Tron: Ares",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Science-Fiction",
+    "Abenteuer",
+    "Action"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "88e62445338d9abc37792925cacc4dbd.jpg"
+  },
+  {
+   "id": "462c977c28eacc22272d0c8ab42ec4a5",
+   "titel": "Tron: Legacy",
+   "jahr": 2010,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "462c977c28eacc22272d0c8ab42ec4a5.jpg"
+  },
+  {
+   "id": "11f6a65beee0363b19a44c27d414ac5e",
+   "titel": "Trunk: Locked In",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "11f6a65beee0363b19a44c27d414ac5e.jpg"
+  },
+  {
+   "id": "0da58120cfbf8556289428195a094b6b",
+   "titel": "Twister",
+   "jahr": 1996,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "0da58120cfbf8556289428195a094b6b.jpg"
+  },
+  {
+   "id": "38122c71ed3da90d141657c6235939fc",
+   "titel": "Twister",
+   "jahr": 1996,
+   "fsk": null,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "38122c71ed3da90d141657c6235939fc.jpg"
+  },
+  {
+   "id": "064385d1be8ccbb65d6c476276b3d3df",
+   "titel": "Twisters",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "064385d1be8ccbb65d6c476276b3d3df.jpg"
+  },
+  {
+   "id": "b8a938c42e6c5838b0977fa3e663008f",
+   "titel": "TÁR",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Musik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b8a938c42e6c5838b0977fa3e663008f.jpg"
+  },
+  {
+   "id": "bc4abe063eecc9b68ed5df72ebfef674",
+   "titel": "Uncharted",
+   "jahr": 2022,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "bc4abe063eecc9b68ed5df72ebfef674.jpg"
+  },
+  {
+   "id": "007389719a43dafd7c8201f94207a4b7",
+   "titel": "Until Dawn",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Fantasy",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "007389719a43dafd7c8201f94207a4b7.jpg"
+  },
+  {
+   "id": "aeb3a2a406e23f62e7ba4f6fffd03ad0",
+   "titel": "Upgrade",
+   "jahr": 2018,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "aeb3a2a406e23f62e7ba4f6fffd03ad0.jpg"
+  },
+  {
+   "id": "a84a0f32a00881c2d7c5e68e4cbb6959",
+   "titel": "Venom: The Last Dance",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "a84a0f32a00881c2d7c5e68e4cbb6959.jpg"
+  },
+  {
+   "id": "73ff9b82bdbdab4d220f1cc155d33f8e",
+   "titel": "Vergessene Welt: Jurassic Park",
+   "jahr": 1997,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "73ff9b82bdbdab4d220f1cc155d33f8e.jpg"
+  },
+  {
+   "id": "1253345855abc3053d9a0216ff1b048a",
+   "titel": "Viel Wirbel um Weihnachten",
+   "jahr": 2023,
+   "fsk": 0,
+   "genres": [
+    "Komödie",
+    "Familie",
+    "Fantasy"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "1253345855abc3053d9a0216ff1b048a.jpg"
+  },
+  {
+   "id": "b9fd6527c641b5e2637c51b60d20f70e",
+   "titel": "Vier Brüder",
+   "jahr": 2005,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krimi",
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b9fd6527c641b5e2637c51b60d20f70e.jpg"
+  },
+  {
+   "id": "9c8f506383e541f09b797965c6c27b7f",
+   "titel": "Wake Up Dead Man: A Knives Out Mystery",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Thriller",
+    "Mystery",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "9c8f506383e541f09b797965c6c27b7f.jpg"
+  },
+  {
+   "id": "abcf6b8f754c28a55748eab432c809aa",
+   "titel": "Wall Street: Geld schläft nicht",
+   "jahr": 2010,
+   "fsk": 6,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "abcf6b8f754c28a55748eab432c809aa.jpg"
+  },
+  {
+   "id": "935f9f625cce6515cee05bda301fd8a7",
+   "titel": "Wanted",
+   "jahr": 2008,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Krimi"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "935f9f625cce6515cee05bda301fd8a7.jpg"
+  },
+  {
+   "id": "c360178c555a7c4fb8cf0337cf529f06",
+   "titel": "War",
+   "jahr": 2007,
+   "fsk": 18,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c360178c555a7c4fb8cf0337cf529f06.jpg"
+  },
+  {
+   "id": "c2a3ab7285a59f92eb5486d2240b7fae",
+   "titel": "War Machine",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "c2a3ab7285a59f92eb5486d2240b7fae.jpg"
+  },
+  {
+   "id": "3383c2743e713a28c90776e8dc88d48e",
+   "titel": "Warcraft: The Beginning",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "3383c2743e713a28c90776e8dc88d48e.jpg"
+  },
+  {
+   "id": "8bec000a95635593e8e9e0c0158bd5b7",
+   "titel": "Warcraft: The Beginning",
+   "jahr": 2016,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Abenteuer",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "8bec000a95635593e8e9e0c0158bd5b7.jpg"
+  },
+  {
+   "id": "e37753093231fcd558380b423f86f732",
+   "titel": "Warfare",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Action",
+    "Krieg"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e37753093231fcd558380b423f86f732.jpg"
+  },
+  {
+   "id": "d9edb2997d5f5edfc8728e7f613a06b4",
+   "titel": "We Live in Time",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "d9edb2997d5f5edfc8728e7f613a06b4.jpg"
+  },
+  {
+   "id": "d607c6dd11fb9cc9002eed651e62b7b8",
+   "titel": "Weapons - Die Stunde des Verschwindens",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "d607c6dd11fb9cc9002eed651e62b7b8.jpg"
+  },
+  {
+   "id": "4a041911b389f05a6bdf891988894eed",
+   "titel": "White House Down",
+   "jahr": 2013,
+   "fsk": 12,
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "4a041911b389f05a6bdf891988894eed.jpg"
+  },
+  {
+   "id": "b0a535cb9979aa9d9aff9d7af9b7fbc9",
+   "titel": "Who Am I: Kein System ist sicher",
+   "jahr": 2014,
+   "fsk": 12,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Mystery",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "b0a535cb9979aa9d9aff9d7af9b7fbc9.jpg"
+  },
+  {
+   "id": "268e776ad09070e6a9a6f2932814ad86",
+   "titel": "Wick Is Pain",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Dokumentation"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "268e776ad09070e6a9a6f2932814ad86.jpg"
+  },
+  {
+   "id": "ac5f94a17dcdb067aded7206fb26e843",
+   "titel": "Wicked",
+   "jahr": 2024,
+   "fsk": 6,
+   "genres": [
+    "Drama",
+    "Romantik",
+    "Fantasy"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "ac5f94a17dcdb067aded7206fb26e843.jpg"
+  },
+  {
+   "id": "996208875b9c3d9dc09fe26790f20c86",
+   "titel": "Wicked: Teil 2",
+   "jahr": 2025,
+   "fsk": 12,
+   "genres": [
+    "Fantasy",
+    "Abenteuer",
+    "Romantik"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "996208875b9c3d9dc09fe26790f20c86.jpg"
+  },
+  {
+   "id": "0219dc344ea5dc750637fe13b97cce03",
+   "titel": "Wild Things 3",
+   "jahr": 2005,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Mystery"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0219dc344ea5dc750637fe13b97cce03.jpg"
+  },
+  {
+   "id": "53705a6a4fb4a5ffdcbd96793e3162b9",
+   "titel": "Wind River",
+   "jahr": 2017,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Western"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "53705a6a4fb4a5ffdcbd96793e3162b9.jpg"
+  },
+  {
+   "id": "cf50bcde1005d588eaa9ceb875a4b5e4",
+   "titel": "Wo die Lüge hinfällt",
+   "jahr": 2023,
+   "fsk": 0,
+   "genres": [
+    "Romantik",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "cf50bcde1005d588eaa9ceb875a4b5e4.jpg"
+  },
+  {
+   "id": "c005a0cd6dca0ede046a95a8767ff531",
+   "titel": "Wochenendrebellen",
+   "jahr": 2023,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Drama",
+    "Sport"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "c005a0cd6dca0ede046a95a8767ff531.jpg"
+  },
+  {
+   "id": "6752163e44eb7c8dfb6f96acb11214d1",
+   "titel": "Wolf Man",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "6752163e44eb7c8dfb6f96acb11214d1.jpg"
+  },
+  {
+   "id": "a8308fb321d91ee8023fd13edfe93799",
+   "titel": "Wonka",
+   "jahr": 2023,
+   "fsk": null,
+   "genres": [
+    "Familie",
+    "Komödie",
+    "Musical",
+    "Fantasy"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "a8308fb321d91ee8023fd13edfe93799.jpg"
+  },
+  {
+   "id": "e4137dd22c471c0cadb94153f5ba5135",
+   "titel": "World Trade Center",
+   "jahr": 2006,
+   "fsk": 12,
+   "genres": [
+    "Drama",
+    "Geschichte",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e4137dd22c471c0cadb94153f5ba5135.jpg"
+  },
+  {
+   "id": "e2bbc65cbce0c348bdd0d7d2610af8cd",
+   "titel": "Worldbreaker",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "e2bbc65cbce0c348bdd0d7d2610af8cd.jpg"
+  },
+  {
+   "id": "844761210404df69cabae9cb6f807712",
+   "titel": "Wrong Turn",
+   "jahr": 2003,
+   "fsk": 16,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "844761210404df69cabae9cb6f807712.jpg"
+  },
+  {
+   "id": "75a37ab5951c7824316bee65071f3c07",
+   "titel": "Wrong Turn",
+   "jahr": 2021,
+   "fsk": 18,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "75a37ab5951c7824316bee65071f3c07.jpg"
+  },
+  {
+   "id": "5da87e716de92609a104e7cd6a9c8bcf",
+   "titel": "Wrong Turn 2: Dead End",
+   "jahr": 2007,
+   "fsk": null,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "5da87e716de92609a104e7cd6a9c8bcf.jpg"
+  },
+  {
+   "id": "9d0bc5b3f7329272e2d8bfa84ec1534a",
+   "titel": "Wrong Turn 3 - Left for Dead",
+   "jahr": 2009,
+   "fsk": 18,
+   "genres": [
+    "Abenteuer",
+    "Fantasy",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "9d0bc5b3f7329272e2d8bfa84ec1534a.jpg"
+  },
+  {
+   "id": "aa6edf507720d4c761397868a670dd75",
+   "titel": "Wrong Turn 4: Bloody Beginnings",
+   "jahr": 2011,
+   "fsk": null,
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "aa6edf507720d4c761397868a670dd75.jpg"
+  },
+  {
+   "id": "7defe7928d19739da76d3215671310a5",
+   "titel": "Wrong Turn 5: Bloodlines",
+   "jahr": 2012,
+   "fsk": 18,
+   "genres": [
+    "Abenteuer",
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "7defe7928d19739da76d3215671310a5.jpg"
+  },
+  {
+   "id": "4cc7beabf22dd89a4dedc9cdd529d429",
+   "titel": "Wrong Turn 6: Last Resort",
+   "jahr": 2014,
+   "fsk": null,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "auf10tb": true,
+   "poster": "4cc7beabf22dd89a4dedc9cdd529d429.jpg"
+  },
+  {
+   "id": "ebafdca91aa1629ecc9ba01631ac7515",
+   "titel": "Wuthering Heights - Sturmhöhe",
+   "jahr": 2026,
+   "fsk": 16,
+   "genres": [
+    "Romantik",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "ebafdca91aa1629ecc9ba01631ac7515.jpg"
+  },
+  {
+   "id": "34f0e7fdf977eb0891d631c7d7eac826",
+   "titel": "Zauberhafte Schwestern",
+   "jahr": 1998,
+   "fsk": 12,
+   "genres": [
+    "Romantik",
+    "Fantasy",
+    "Komödie"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "34f0e7fdf977eb0891d631c7d7eac826.jpg"
+  },
+  {
+   "id": "f2a3c50593e1a46a4655d146f60fe1d0",
+   "titel": "Ziemlich beste Freunde",
+   "jahr": 2011,
+   "fsk": 6,
+   "genres": [
+    "Komödie",
+    "Drama"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "f2a3c50593e1a46a4655d146f60fe1d0.jpg"
+  },
+  {
+   "id": "0516afc10859edd6858349d999067566",
+   "titel": "Zodiac - Die Spur des Killers",
+   "jahr": 2007,
+   "fsk": 16,
+   "genres": [
+    "Thriller"
+   ],
+   "kinder": false,
+   "auf10tb": false,
+   "poster": "0516afc10859edd6858349d999067566.jpg"
+  },
+  {
+   "id": "4836d89469205e8f39794a6c6b54386c",
+   "titel": "Zoey 102",
+   "jahr": 2023,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Drama",
+    "Familie",
+    "Romantik"
+   ],
+   "kinder": true,
+   "auf10tb": true,
+   "poster": "4836d89469205e8f39794a6c6b54386c.jpg"
+  },
+  {
+   "id": "9e12cfd20df74ae10aa4374f1237a2ef",
+   "titel": "Zoomania 2",
+   "jahr": 2025,
+   "fsk": 6,
+   "genres": [
+    "Animation",
+    "Komödie",
+    "Abenteuer",
+    "Familie",
+    "Mystery"
+   ],
+   "kinder": true,
+   "auf10tb": false,
+   "poster": "9e12cfd20df74ae10aa4374f1237a2ef.jpg"
+  }
+ ],
+ "serien": [
+  {
+   "id": "e75bd4ace81bcb40cf4d472728c08859",
+   "titel": "Breaking Bad",
+   "jahr": 2008,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Krimi"
+   ],
+   "kinder": false,
+   "staffeln": 5,
+   "folgen": 62,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "e75bd4ace81bcb40cf4d472728c08859.jpg"
+  },
+  {
+   "id": "70f1be476720ec2094a5fae8bb8241db",
+   "titel": "Das zehnte Königreich",
+   "jahr": 2000,
+   "fsk": 12,
+   "genres": [
+    "Abenteuer",
+    "Komödie",
+    "Familie",
+    "Fantasy",
+    "Mystery",
+    "Romantik"
+   ],
+   "kinder": true,
+   "staffeln": 1,
+   "folgen": 5,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "70f1be476720ec2094a5fae8bb8241db.jpg"
+  },
+  {
+   "id": "6282f1229711a44c1c48d72ddab7647d",
+   "titel": "Die Legende",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 6,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "6282f1229711a44c1c48d72ddab7647d.jpg"
+  },
+  {
+   "id": "13915a85f0819eacc2a8855c652b1258",
+   "titel": "Es: Welcome to Derry",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Horror"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 8,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "13915a85f0819eacc2a8855c652b1258.jpg"
+  },
+  {
+   "id": "41ea2bcb94616f151b9679381efb1f0b",
+   "titel": "Euphoria",
+   "jahr": 2019,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "staffeln": 3,
+   "folgen": 23,
+   "auf10tb": true,
+   "teilweise": true,
+   "poster": "41ea2bcb94616f151b9679381efb1f0b.jpg"
+  },
+  {
+   "id": "08e06950956bbe014f8e68cf033f4e2b",
+   "titel": "Euphoria",
+   "jahr": 2019,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "staffeln": 3,
+   "folgen": 23,
+   "auf10tb": true,
+   "teilweise": true,
+   "poster": "08e06950956bbe014f8e68cf033f4e2b.jpg"
+  },
+  {
+   "id": "655003143c149529cfc99599b1d371b3",
+   "titel": "Hostage",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Krieg"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 5,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "655003143c149529cfc99599b1d371b3.jpg"
+  },
+  {
+   "id": "16b2ab0a7112b8e988038c882f94fbc9",
+   "titel": "How to Sell Drugs Online (Fast)",
+   "jahr": 2019,
+   "fsk": 16,
+   "genres": [
+    "Komödie",
+    "Krimi",
+    "Drama",
+    "Romantik"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 6,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "16b2ab0a7112b8e988038c882f94fbc9.jpg"
+  },
+  {
+   "id": "62d8c4d140d8a487d2ced07107dbe45b",
+   "titel": "Landman",
+   "jahr": 2024,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Western"
+   ],
+   "kinder": false,
+   "staffeln": 2,
+   "folgen": 18,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "62d8c4d140d8a487d2ced07107dbe45b.jpg"
+  },
+  {
+   "id": "7021ffafffdbb13533dee9568d6c1b7e",
+   "titel": "Long Bright River",
+   "jahr": 2025,
+   "fsk": 16,
+   "genres": [
+    "Krimi",
+    "Drama",
+    "Thriller"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 8,
+   "auf10tb": true,
+   "teilweise": false,
+   "poster": "7021ffafffdbb13533dee9568d6c1b7e.jpg"
+  },
+  {
+   "id": "dad015edd815dd95e29e2432797601d9",
+   "titel": "MobLand",
+   "jahr": 2025,
+   "fsk": null,
+   "genres": [
+    "Drama",
+    "Krimi"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 6,
+   "auf10tb": true,
+   "teilweise": false,
+   "poster": "dad015edd815dd95e29e2432797601d9.jpg"
+  },
+  {
+   "id": "60ba0e37c25d629070954653ea24dc85",
+   "titel": "Shangri-La Frontier",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Animation",
+    "Action",
+    "Komödie",
+    "Science-Fiction"
+   ],
+   "kinder": false,
+   "staffeln": 2,
+   "folgen": 50,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "60ba0e37c25d629070954653ea24dc85.jpg"
+  },
+  {
+   "id": "6052b1f41c492010fcf33b8508c75e40",
+   "titel": "The Agency – Im Fadenkreuz der C.I.A.",
+   "jahr": 2001,
+   "fsk": null,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 5,
+   "auf10tb": true,
+   "teilweise": false,
+   "poster": "6052b1f41c492010fcf33b8508c75e40.jpg"
+  },
+  {
+   "id": "37a0e265b41179e93566fe65cd91fcde",
+   "titel": "The Dropout",
+   "jahr": 2022,
+   "fsk": null,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 6,
+   "auf10tb": true,
+   "teilweise": false,
+   "poster": "37a0e265b41179e93566fe65cd91fcde.jpg"
+  },
+  {
+   "id": "c97db2c98a7cc8e707c16211bdae9711",
+   "titel": "The Last of Us",
+   "jahr": 2023,
+   "fsk": 16,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "staffeln": 3,
+   "folgen": 16,
+   "auf10tb": true,
+   "teilweise": false,
+   "poster": "c97db2c98a7cc8e707c16211bdae9711.jpg"
+  },
+  {
+   "id": "1f66072358a3e95653b6b8159323bdea",
+   "titel": "The Lincoln Lawyer",
+   "jahr": 2022,
+   "fsk": 16,
+   "genres": [
+    "Drama",
+    "Krimi",
+    "Thriller"
+   ],
+   "kinder": false,
+   "staffeln": 2,
+   "folgen": 20,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "1f66072358a3e95653b6b8159323bdea.jpg"
+  },
+  {
+   "id": "ffb80ad1b2836b81b9f72f5b53d2d3fa",
+   "titel": "Undercover im Seniorenheim",
+   "jahr": 2024,
+   "fsk": 12,
+   "genres": [
+    "Komödie",
+    "Krimi"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 8,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "ffb80ad1b2836b81b9f72f5b53d2d3fa.jpg"
+  },
+  {
+   "id": "0fc4022a7f42744216f3ff0323a98528",
+   "titel": "Upload",
+   "jahr": 2020,
+   "fsk": 16,
+   "genres": [
+    "Science-Fiction",
+    "Komödie",
+    "Romantik",
+    "Mystery"
+   ],
+   "kinder": false,
+   "staffeln": 1,
+   "folgen": 4,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "0fc4022a7f42744216f3ff0323a98528.jpg"
+  },
+  {
+   "id": "ee2be57c9b45afedc11cbbb13b06c9fc",
+   "titel": "Wu-Tang: An American Saga",
+   "jahr": 2019,
+   "fsk": null,
+   "genres": [
+    "Drama"
+   ],
+   "kinder": false,
+   "staffeln": 3,
+   "folgen": 30,
+   "auf10tb": false,
+   "teilweise": false,
+   "poster": "ee2be57c9b45afedc11cbbb13b06c9fc.jpg"
+  }
+ ]
+}
