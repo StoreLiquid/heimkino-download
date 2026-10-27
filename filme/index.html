@@ -29,10 +29,13 @@ body{background:var(--bg);color:var(--text);font:16px/1.4 -apple-system,BlinkMac
 /* EIN großes unscharfes Hintergrundbild, nicht pro Karte (Android-Tablet-tauglich) */
 #hg{position:fixed;inset:-60px;z-index:-2;background:center/cover no-repeat;filter:blur(60px) saturate(1.3);opacity:.5;transition:opacity .6s,background-image .6s}
 #hg2{position:fixed;inset:0;z-index:-1;background:radial-gradient(120% 80% at 50% 0%,transparent,var(--bg) 80%)}
-.leicht #hg{display:none}
-.leicht .glas,.leicht .blatt{backdrop-filter:none!important;-webkit-backdrop-filter:none!important;background:var(--bg2)!important}
 .glas{background:var(--glas);border:1px solid var(--rand);backdrop-filter:blur(var(--blur)) saturate(1.4);-webkit-backdrop-filter:blur(var(--blur)) saturate(1.4)}
-header{position:sticky;top:0;z-index:10;padding:calc(env(safe-area-inset-top) + 12px) 16px 12px;border-width:0 0 1px}
+header{position:sticky;top:0;z-index:10;padding:calc(env(safe-area-inset-top) + 12px) 16px 22px}
+/* Glasfläche hinter der Kopfleiste: keine Kante, Farbe und Unschärfe laufen nach unten weich aus */
+header::before{content:"";position:absolute;inset:0 0 -26px 0;z-index:-1;pointer-events:none;
+  background:linear-gradient(to bottom,rgba(8,8,10,.82) 0%,rgba(8,8,10,.55) 55%,rgba(8,8,10,0) 100%);
+  backdrop-filter:blur(var(--blur)) saturate(1.4);-webkit-backdrop-filter:blur(var(--blur)) saturate(1.4);
+  -webkit-mask-image:linear-gradient(to bottom,#000 0%,#000 55%,transparent 100%);mask-image:linear-gradient(to bottom,#000 0%,#000 55%,transparent 100%)}
 .zeile{display:flex;gap:10px;align-items:center;max-width:1400px;margin:0 auto;flex-wrap:wrap}
 .logo{width:40px;height:40px;border-radius:10px;flex:none;box-shadow:0 4px 14px rgba(0,0,0,.35)}
 h1{font-size:20px;font-weight:700;letter-spacing:-.02em;flex:1;min-width:120px}
@@ -101,15 +104,13 @@ main{max-width:1400px;margin:0 auto;padding:16px 16px 80px}
 #tipp .knoepfe{display:flex;gap:8px;justify-content:flex-end}
 #tipp button{border:1px solid var(--rand);background:var(--glas);color:var(--text);font:inherit;font-size:14px;padding:7px 16px;border-radius:999px;cursor:pointer}
 #tipp button.haupt{background:var(--akzent);border-color:var(--akzent);color:#fff}
-footer{position:fixed;left:0;right:0;bottom:0;z-index:5;text-align:center;font-size:12px;color:var(--dim);padding:8px 16px calc(env(safe-area-inset-bottom) + 8px);pointer-events:none}
-footer button{pointer-events:auto;border:0;background:none;color:var(--dim);font:inherit;text-decoration:underline;cursor:pointer}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
 <body>
 <div id="hg"></div><div id="hg2"></div>
 <div id="wartung" role="status"></div>
-<header class="glas">
+<header>
   <div class="zeile">
     <img class="logo" src="symbole/logo-96.png" alt="" width="40" height="40">
     <h1>Filme &amp; Serien <small id="stand">auf der 10-TB-Platte</small></h1>
@@ -136,16 +137,12 @@ footer button{pointer-events:auto;border:0;background:none;color:var(--dim);font
   <ol id="tippschritte"></ol>
   <div class="knoepfe"><button id="tipp-spaeter" type="button">Später</button><button id="tipp-ok" class="haupt" type="button">Verstanden</button></div>
 </div>
-<footer><button id="leicht">Effekte reduzieren</button></footer>
 <script>
 (function(){
 "use strict";
 var DATEN="daten/", daten=null, tab="filme", nurPlatte=false, kinder=false, genre="", suche="";
 var $=function(i){return document.getElementById(i)};
 function speicher(k,w){try{if(w===undefined)return localStorage.getItem(k);localStorage.setItem(k,w)}catch(e){return null}}
-function leicht(an){document.body.classList.toggle("leicht",an);$("leicht").textContent=an?"Effekte einschalten":"Effekte reduzieren";speicher("leicht",an?"1":"0")}
-var l=speicher("leicht"); if(l==null){l=(navigator.hardwareConcurrency&&navigator.hardwareConcurrency<=4)?"1":"0"} leicht(l==="1");
-$("leicht").onclick=function(){leicht(!document.body.classList.contains("leicht"))};
 
 function status(x){return x.teilweise?"teil":(x.auf10tb?"ja":"nein")}
 function liste(){return (daten&&daten[tab])||[]}
@@ -169,7 +166,7 @@ function karte(x){
   return b;
 }
 var hgNr=0;
-function hintergrund(x){ if(document.body.classList.contains("leicht"))return; var n=++hgNr; var i=new Image(); i.onload=function(){if(n===hgNr)$("hg").style.backgroundImage="url('"+i.src+"')"}; i.src=DATEN+"poster/"+x.poster}
+function hintergrund(x){ var n=++hgNr; var i=new Image(); i.onload=function(){if(n===hgNr)$("hg").style.backgroundImage="url('"+i.src+"')"}; i.src=DATEN+"poster/"+x.poster}
 var geplant=0;
 function zeichnen(){
   var l=gefiltert(), r=$("raster"); r.textContent="";
