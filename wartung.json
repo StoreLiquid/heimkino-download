@@ -1,7 +1,7 @@
 {
-    "aktiv":  false,
-    "text":  "",
-    "seit":  "",
+    "aktiv":  true,
+    "text":  "Der Heimkino-Server wird gerade gewartet (Updates und Umbauten).",
+    "seit":  "2026-10-30T20:29:34",
     "von":  "",
     "bis":  "",
     "neu":  "20261028205006"
